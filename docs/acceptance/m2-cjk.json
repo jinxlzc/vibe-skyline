@@ -1,0 +1,204 @@
+{
+  "branch": "feat/m2-generic-lettering",
+  "base": "0ec002fad2616d799e8c19ce065e5f7b578b75f9",
+  "startedAt": "2026-11-20T11:22:28.979217+00:00",
+  "node": "v22.22.2",
+  "scope": "Synthetic fixtures and permitted public GitHub/Gitee smoke only; no real activity response retained",
+  "commands": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 0.5
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 10.12
+    },
+    {
+      "command": "pnpm -r lint",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 3.18
+    },
+    {
+      "command": "pnpm -r test",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 21.26,
+      "testsPassed": 109,
+      "testFilesPassed": 16
+    },
+    {
+      "command": "pnpm -r build",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 12.47
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 3.01
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 1.36
+    },
+    {
+      "command": "pnpm test:e2e",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 69.27,
+      "testsPassed": 12
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 4.66,
+      "checksPassed": 4,
+      "redactedResults": [
+        "CLI github: PASS",
+        "dev proxy github: PASS",
+        "CLI gitee: PASS",
+        "dev proxy gitee: PASS"
+      ]
+    }
+  ],
+  "overall": "PASS",
+  "priorAttempts": [
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "result": "FAIL",
+      "exitCode": 2,
+      "durationSeconds": 3.09,
+      "failureTail": [
+        "packages/geometry/scripts/lettering-matrix.ts(21,7): error TS7034: Variable 'caseRows' implicitly has type 'any[]' in some locations where its type cannot be determined.",
+        "packages/geometry/scripts/lettering-matrix.ts(78,19): error TS7005: Variable 'caseRows' implicitly has an 'any[]' type."
+      ]
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 1.27
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 3.17,
+      "reasonForRerun": "Explicit discriminated union for matrix result rows; no production changes"
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 1.25,
+      "reasonForRerun": "Explicit discriminated union for matrix result rows; no production changes"
+    }
+  ],
+  "priorCycle": {
+    "reason": "Final review added shipped font notices, their built-app regression and corrected bilingual copy",
+    "commands": [
+      {
+        "command": "pnpm install --frozen-lockfile",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 0.54
+      },
+      {
+        "command": "pnpm -r typecheck",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 10.07
+      },
+      {
+        "command": "pnpm -r lint",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 3.19
+      },
+      {
+        "command": "pnpm -r test",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 21.78,
+        "testsPassed": 109,
+        "testFilesPassed": 16
+      },
+      {
+        "command": "pnpm -r build",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 12.35
+      },
+      {
+        "command": "pnpm exec tsc --noEmit",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 3.21,
+        "reasonForRerun": "Review fix: matrix generator rethrows unexpected errors and asserts the exact expected rejections"
+      },
+      {
+        "command": "pnpm exec eslint .",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 1.29,
+        "reasonForRerun": "Review fix: matrix generator rethrows unexpected errors and asserts the exact expected rejections"
+      },
+      {
+        "command": "pnpm test:e2e",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 68.79,
+        "testsPassed": 11
+      },
+      {
+        "command": "LIVE=1 pnpm test:live",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 4.08,
+        "checksPassed": 4,
+        "redactedResults": [
+          "CLI github: PASS",
+          "dev proxy github: PASS",
+          "CLI gitee: PASS",
+          "dev proxy gitee: PASS"
+        ]
+      }
+    ],
+    "overall": "PASS"
+  },
+  "completedAt": "2026-11-20T11:25:42.036057+00:00",
+  "matrix": {
+    "requests": 126,
+    "validGeometryConfigurations": 114,
+    "explicitRejections": 12
+  },
+  "fontResearch": {
+    "candidates": 14,
+    "variants": 17,
+    "measuredTrials": 408
+  },
+  "browserArtifacts": {
+    "directory": "docs/examples/m2-cjk",
+    "method": "actual download.saveAs, saved bytes independently validated"
+  },
+  "review": {
+    "geometry": "PASS",
+    "final": "PASS after one fix wave",
+    "fontNoticeByteComparisons": 4,
+    "glyphCellOccupancyMappings": 4146,
+    "filledSourceCentersPreserved": 201858
+  },
+  "notes": [
+    "Geometry tested, not physically printed; Bambu mapping not verified",
+    "Original Cubic11 notice preserves upstream whitespace; notices are byte-identical rather than reformatted"
+  ]
+}

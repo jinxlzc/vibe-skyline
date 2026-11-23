@@ -1,0 +1,3 @@
+# M5 model examples refreshed for M6
+
+GitHub and Gitee are separate models, exported through the browser. Activity is deterministic synthetic demo data, frozen at 2026-11-20. skyline-demo uses the official GitHub Invertocat in the default preview and exports; git-demo uses the original synthetic-frame.svg BYO fixture in the separately labeled byo files; gitee-demo uses the official Gitee mark. Official files are bundled with owner-accepted brand-policy risk and no redistribution or printable-derivative grant claimed. Invertocat measures about 0.957 mm stroke / 0.538 mm gap and is not print-qualified. No personal AI logs, slicer or printer. See ../../licenses/TRADEMARKS.md for provenance and kill switches.

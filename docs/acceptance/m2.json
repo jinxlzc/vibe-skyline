@@ -1,0 +1,109 @@
+{
+  "label": "M2 public-readiness synthetic acceptance",
+  "baseCommit": "bddcc6a1b9236d2291dc07c249b9ec782964706f",
+  "node": "v22.22.2",
+  "results": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 0.5
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 10.07
+    },
+    {
+      "command": "pnpm -r lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 3.22
+    },
+    {
+      "command": "pnpm -r test",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 21.83,
+      "testsPassed": 96,
+      "testFilesPassed": 16
+    },
+    {
+      "command": "pnpm -r build",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 13.2
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 2.99
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 1.3
+    },
+    {
+      "command": "pnpm test:e2e",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 43.9,
+      "testsPassed": 8
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 4.71,
+      "checks": [
+        "CLI github: PASS",
+        "dev proxy github: PASS",
+        "CLI gitee: PASS",
+        "dev proxy gitee: PASS"
+      ]
+    }
+  ],
+  "personalLogsRead": false,
+  "liveResponsesRetained": false,
+  "printerOrSlicerConnection": false,
+  "checkedAt": "2026-11-20T10:24:51.418498+00:00",
+  "finalPresentationRecheck": [
+    {
+      "command": "pnpm -r build",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 12.72
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 2.97
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 1.27
+    },
+    {
+      "command": "pnpm test:e2e",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 43.14,
+      "testsPassed": 8
+    }
+  ],
+  "implementationCommit": "8b9d1fb497fbf9036003fff0cbcbac8d5961fd71",
+  "artifactVerification": {
+    "status": "PASS",
+    "sha256Matches": 13,
+    "core3mfSummariesWithSlotsAndFeatures": 5,
+    "screenshots": 16,
+    "examplesTotalBytes": 3755256
+  }
+}

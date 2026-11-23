@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="VibeSkyline — Isometric plinth, 32px dark-field favicon">
+<title>VibeSkyline — Isometric plinth, 32px dark-field favicon</title>
+<g transform="translate(0 0) scale(2.0)">
+<rect x="0" y="0" width="16" height="16" rx="3" fill="#f7f8f6"/>
+<rect x="3" y="5" width="2" height="7" rx="0" fill="#234c40"/>
+<rect x="6" y="2" width="3" height="10" rx="0" fill="#234c40"/>
+<rect x="10" y="4" width="3" height="8" rx="0" fill="#234c40"/>
+<polygon points="3,12 13,12 15,15 1,15" fill="#0D1117"/>
+</g>
+</svg>

@@ -1,0 +1,74 @@
+{
+  "basis": "Built JS gzip level 9; browser network checks separately prove deferred loading",
+  "before": {
+    "geometry.worker-knZC88pY.js": 84615,
+    "Scene-Dodvo84h.js": 240040,
+    "index-DaoF29Zd.js": 101751
+  },
+  "after": {
+    "Lato-Bold-DIpoTHQe.ttf": {
+      "bytes": 656544,
+      "gzipBytes": 335491
+    },
+    "Scene-9n3ZTNX7.js": {
+      "bytes": 895805,
+      "gzipBytes": 240039
+    },
+    "VibeSkylineSC-Bold-DsFzsUy7.otf": {
+      "bytes": 991136,
+      "gzipBytes": 870033
+    },
+    "geometry.worker-C7_f4bHk.js": {
+      "bytes": 303578,
+      "gzipBytes": 89113
+    },
+    "import.worker-BXGDDhqy.js": {
+      "bytes": 77839,
+      "gzipBytes": 21670
+    },
+    "index-DajAd7cM.js": {
+      "bytes": 324667,
+      "gzipBytes": 99527
+    },
+    "manifold-B_yLhOkb.wasm": {
+      "bytes": 542744,
+      "gzipBytes": 205293
+    },
+    "spatial-TY430X_S.js": {
+      "bytes": 4572,
+      "gzipBytes": 2118
+    },
+    "src-B7DzuM1g.js": {
+      "bytes": 1106,
+      "gzipBytes": 629
+    },
+    "src-C9u93buX.js": {
+      "bytes": 84287,
+      "gzipBytes": 30837
+    },
+    "src-DRhJp8y-.js": {
+      "bytes": 174675,
+      "gzipBytes": 55534
+    }
+  },
+  "landingJavaScript": {
+    "beforeGzipBytes": 341791,
+    "afterGzipBytes": 99527,
+    "reductionPercent": 70.88,
+    "budgetGzipBytes": 256000,
+    "status": "PASS",
+    "scope": "M1 immediately loaded entry and renderer; M2 loads only entry on landing. Workers, WASM and fonts excluded from JS sum; browser test checks renderer/WASM/CJK deferral."
+  },
+  "unmeasuredTargets": [
+    "cached handle preview <3s",
+    "4-source CAD+3MF <6s and peak memory <512MiB",
+    "four cards <3s",
+    "warm local collection <5s",
+    "Studio changes <300ms",
+    "actual mobile hardware"
+  ],
+  "warnings": [
+    "Studio Scene chunk remains above Vite 500kB raw threshold; deferred, not reduced below threshold.",
+    "manifold node:module browser externalization warning; actual worker exports are covered by browser acceptance."
+  ]
+}

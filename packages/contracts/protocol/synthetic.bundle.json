@@ -1,0 +1,118 @@
+{
+  "schema": "vibeskyline.activity.v2",
+  "year": 2026,
+  "generatedAt": "2026-01-05T00:00:00Z",
+  "sources": [
+    {
+      "id": "codex",
+      "client": "Codex",
+      "accountingProfile": "inclusive-tokens-v1",
+      "scopeId": "daily",
+      "metric": "tokens",
+      "unit": "token",
+      "unitScale": 1,
+      "calendar": {
+        "timezone": "UTC",
+        "dateBasis": "source-reported"
+      },
+      "coverage": [
+        {
+          "from": "2026-01-01",
+          "to": "2026-01-02",
+          "kind": "partial"
+        }
+      ],
+      "days": [
+        {
+          "date": "2026-01-01",
+          "value": 150,
+          "state": "observed",
+          "completeness": "partial",
+          "quality": "derived",
+          "tokens": {
+            "in": 100,
+            "out": 50,
+            "cacheRead": 40,
+            "cacheWrite": 10,
+            "reasoning": 20
+          }
+        },
+        {
+          "date": "2026-01-02",
+          "value": 0,
+          "state": "known-zero",
+          "completeness": "complete",
+          "quality": "reported"
+        },
+        {
+          "date": "2026-01-03",
+          "value": null,
+          "state": "unknown",
+          "completeness": "unknown",
+          "quality": "reported"
+        }
+      ],
+      "provenanceIds": [
+        "synthetic"
+      ],
+      "sample": true
+    },
+    {
+      "id": "editor",
+      "client": "Editor",
+      "accountingProfile": "daily-count-v1",
+      "scopeId": "daily",
+      "metric": "events",
+      "unit": "event",
+      "unitScale": 1,
+      "calendar": {
+        "timezone": "UTC",
+        "dateBasis": "source-reported"
+      },
+      "coverage": [
+        {
+          "from": "2026-01-01",
+          "to": "2026-01-02",
+          "kind": "partial"
+        }
+      ],
+      "days": [
+        {
+          "date": "2026-01-01",
+          "value": 8,
+          "state": "observed",
+          "completeness": "partial",
+          "quality": "derived"
+        },
+        {
+          "date": "2026-01-02",
+          "value": 0,
+          "state": "known-zero",
+          "completeness": "complete",
+          "quality": "reported"
+        },
+        {
+          "date": "2026-01-03",
+          "value": null,
+          "state": "unknown",
+          "completeness": "unknown",
+          "quality": "reported"
+        }
+      ],
+      "provenanceIds": [
+        "synthetic"
+      ],
+      "sample": true
+    }
+  ],
+  "provenance": [
+    {
+      "id": "synthetic",
+      "adapter": "synthetic",
+      "version": "2",
+      "method": "synthetic",
+      "status": "fixture-tested"
+    }
+  ],
+  "reconciliation": []
+}

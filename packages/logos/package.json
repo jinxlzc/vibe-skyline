@@ -1,0 +1,21 @@
+{
+  "name": "@vibeskyline/logos",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "lint": "eslint src",
+    "test": "vitest run",
+    "build": "tsc -p tsconfig.json --noEmit false --declaration --outDir dist"
+  },
+  "dependencies": {
+    "@vibeskyline/geometry": "workspace:*",
+    "@xmldom/xmldom": "^0.9.12",
+    "svg-pathdata": "7.2.0",
+    "zod": "^3.24.2"
+  }
+}

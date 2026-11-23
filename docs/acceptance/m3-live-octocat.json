@@ -1,0 +1,49 @@
+{
+  "recordedAt": "2026-11-20T16:05:16.052Z",
+  "year": 2026,
+  "failures": 0,
+  "evidence": [
+    {
+      "provider": "github",
+      "username": "octocat",
+      "path": "CLI",
+      "status": "PASS",
+      "days": 365
+    },
+    {
+      "provider": "github",
+      "username": "octocat",
+      "path": "dev relay",
+      "status": "PASS",
+      "http": 200,
+      "year": 2026,
+      "metric": "contributions",
+      "days": 365,
+      "first": "2026-01-01",
+      "last": "2026-12-31",
+      "sha256": "c1a0ffa9fee19ca931db70addf53bd648e46f5ed6d1a4ca859c73111f7274366"
+    },
+    {
+      "provider": "gitee",
+      "username": "jinxlzc",
+      "path": "CLI",
+      "status": "PASS",
+      "days": 365
+    },
+    {
+      "provider": "gitee",
+      "username": "jinxlzc",
+      "path": "dev relay",
+      "status": "PASS",
+      "http": 200,
+      "year": 2026,
+      "metric": "contributions",
+      "days": 365,
+      "first": "2026-01-01",
+      "last": "2026-12-31",
+      "sha256": "99d6525c31c25cc928c94739451fdf7c665b0c75a18da9287203e49033855486"
+    }
+  ],
+  "gitlab": "not attempted; beta",
+  "ai": "synthetic fixtures only; not live verified"
+}

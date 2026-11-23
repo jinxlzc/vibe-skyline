@@ -1,0 +1,57 @@
+{
+  "milestone": "M6 code-hosting-only",
+  "branch": "feat/m6-code-sources-only",
+  "baseSha": "4ce52161dc650f0e626e89dcc9bf29a8f240c053",
+  "cleanBaseConfirmed": true,
+  "node": "22.22.2",
+  "pnpm": "10.22.0",
+  "checks": {
+    "typecheck": "passed",
+    "lint": "passed",
+    "unit": {
+      "passed": 296,
+      "files": 26
+    },
+    "productionBuild": "passed",
+    "playwright": {
+      "passed": 24,
+      "workers": 1
+    },
+    "operatorLogoBuilds": {
+      "passed": 2,
+      "variants": [
+        "all disabled",
+        "github disabled, gitee enabled"
+      ]
+    }
+  },
+  "visualReview": [
+    "examples/m5/landing-desktop.png",
+    "examples/m5/switcher-mobile-zh.png"
+  ],
+  "review": "Independent code review: no actionable findings",
+  "protocolDistribution": {
+    "publicFilesRemoved": [
+      "spec.md",
+      "activity.schema.json",
+      "synthetic.bundle.json",
+      "offline-pack.zip"
+    ],
+    "dev": "SPA fallback or 404; no protocol payload",
+    "productionPreview": "SPA fallback or 404; no protocol payload",
+    "productionBuild": "no protocol directory, import worker or activity-v2 prompt/payload",
+    "internalProtocolRetained": true
+  },
+  "sourceEvidence": "Synthetic fixtures and mocked calendars; no new live qualification",
+  "gitlab": "beta",
+  "sliced": false,
+  "physicallyPrinted": false,
+  "publicDeployment": false,
+  "limitations": [
+    "Incomplete source history remains possible",
+    "GitLab live public qualification pending",
+    "Slicer mapping and physical print qualification pending",
+    "Purge and print time unknown",
+    "Existing Manifold browser-externalization and large-chunk warnings"
+  ]
+}

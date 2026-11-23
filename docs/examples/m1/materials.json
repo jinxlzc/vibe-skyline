@@ -1,0 +1,38 @@
+{
+  "printer": "Bambu Lab A1 / AMS lite",
+  "slots": 4,
+  "count": 4,
+  "overCapacity": false,
+  "density": 1.24,
+  "materials": [
+    {
+      "id": 0,
+      "color": "#4CC9F0",
+      "volumeCm3": 74.48998214031874,
+      "grams": 92.36757785399524
+    },
+    {
+      "id": 1,
+      "color": "#F77F00",
+      "volumeCm3": 13.2954781134038,
+      "grams": 16.48639286062071
+    },
+    {
+      "id": 2,
+      "color": "#52B788",
+      "volumeCm3": 13.372919711200487,
+      "grams": 16.582420441888605
+    },
+    {
+      "id": 3,
+      "color": "#B583FF",
+      "volumeCm3": 13.173515157448643,
+      "grams": 16.335158795236318
+    }
+  ],
+  "totalVolumeCm3": 114.33189512237168,
+  "totalGrams": 141.77154995174087,
+  "purge": "unknown until sliced",
+  "printTime": "unknown until sliced",
+  "twoToneBoundary": null
+}

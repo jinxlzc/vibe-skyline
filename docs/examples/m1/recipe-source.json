@@ -1,0 +1,54 @@
+{
+  "label": "SYNTHETIC-DEMO",
+  "qualification": "Engineering test artifact — not owner activity; not print-ready",
+  "source": "Actual browser downloads after Load demo data; deterministic demoBundle(2024), four synthetic GitHub/Codex/Gemini/DeepSeek series; no public source fetch",
+  "densityGramsPerCm3": 1.24,
+  "recipe": {
+    "year": 2024,
+    "weekStart": "monday",
+    "name": "SYNTHETIC-DEMO",
+    "layout": "annual-districts",
+    "gamma": 0.78,
+    "maxHeight": 18,
+    "logoMode": "neutral",
+    "colors": [
+      "#4CC9F0",
+      "#F77F00",
+      "#52B788",
+      "#B583FF",
+      "#F4D35E",
+      "#FF5D8F"
+    ],
+    "baseColor": "#181C22",
+    "textColor": "#181C22",
+    "logoColor": "#181C22",
+    "tier": "multi",
+    "resolution": "share-base",
+    "density": 1.24
+  },
+  "twoToneRecipe": {
+    "year": 2024,
+    "weekStart": "monday",
+    "name": "SYNTHETIC-DEMO",
+    "layout": "annual-districts",
+    "gamma": 0.78,
+    "maxHeight": 18,
+    "logoMode": "neutral",
+    "colors": [
+      "#4CC9F0",
+      "#F77F00",
+      "#52B788",
+      "#B583FF",
+      "#F4D35E",
+      "#FF5D8F"
+    ],
+    "baseColor": "#181C22",
+    "textColor": "#181C22",
+    "logoColor": "#181C22",
+    "tier": "two-tone",
+    "resolution": "share-base",
+    "density": 1.24
+  },
+  "slicerConnection": false,
+  "printerConnection": false
+}

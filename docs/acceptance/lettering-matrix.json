@@ -1,0 +1,2641 @@
+{
+  "font": "VibeSkylineGrid-Regular.ttf",
+  "fontSha256": "b6ea6aaa702887cbf9a7aec580b159328c61563f30877bf4ddcd12e29fb293d5",
+  "thresholdMm": {
+    "stroke": 0.8,
+    "gap": 0.6
+  },
+  "baselineDepthMm": 111,
+  "cases": [
+    {
+      "name": "张伟",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "张伟",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999988,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "张伟",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "张伟",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "张伟",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999988,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "张伟",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "张伟"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645294,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662423,
+      "minGapMm": 1.0999999999999996,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951123,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645294,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662423,
+      "minGapMm": 1.0999999999999996,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "山川",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951123,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "山川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333314,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999976,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333314,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999976,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小山"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.099999999999999,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.099999999999999,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "林小川",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333314,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999976,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 33.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333314,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 38.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999976,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小明",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 53.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 45.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 51.7,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 72.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666632,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 45.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 51.7,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳子轩",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 72.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666632,
+      "lines": [
+        "欧阳子轩"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 45.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 51.7,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 72.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 45.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 51.7,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马小明",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 72.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "司马小明"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 44.0833,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 50.6,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 70.9167,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666632,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 44.0833,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 50.6,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "诸葛明月",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 70.9167,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666632,
+      "lines": [
+        "诸葛明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 56.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 64.9,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 90.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 56.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 64.9,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳林小川",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 90.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "欧阳林小川"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 67.0833,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645294,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 77,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662423,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 107.9167,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951123,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 67.0833,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645294,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 77,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662423,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "司马山川明月",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 107.9167,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951123,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "司马山川明月"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.95833333333333,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999963,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666614,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 22.0417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.95833333333333,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 25.3,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999963,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "戴薛",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 35.4583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666614,
+      "lines": [
+        "戴薛"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 37.9167,
+      "inkHeightMm": 11.9167,
+      "sizeMm": 13,
+      "minStrokeMm": 0.91923881554251,
+      "minGapMm": 0.6128258770283399,
+      "lines": [
+        "曦馨罐"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "曦馨罐",
+        "startMm": 14.819999999999999,
+        "sizeMm": 14.9,
+        "minStrokeMm": 1.0535891039679537,
+        "minGapMm": 0.7023927359786357,
+        "lines": [
+          "曦馨罐"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 43.4583,
+        "heightMm": 13.6583
+      },
+      "alternatives": [
+        {
+          "nameSize": "small",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 111
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 117.1
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 123
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 124.7
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 130.1
+        }
+      ]
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 117.1,
+      "inkWidthMm": 60.6667,
+      "inkHeightMm": 19.0667,
+      "sizeMm": 20.8,
+      "minStrokeMm": 1.470782104868016,
+      "minGapMm": 0.9805214032453439,
+      "lines": [
+        "曦馨罐"
+      ],
+      "frontBandMm": 22.1,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123,
+      "inkWidthMm": 37.9167,
+      "inkHeightMm": 11.9167,
+      "sizeMm": 13,
+      "minStrokeMm": 0.91923881554251,
+      "minGapMm": 0.6128258770283399,
+      "lines": [
+        "曦馨罐"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 124.7,
+      "inkWidthMm": 43.4583,
+      "inkHeightMm": 13.6583,
+      "sizeMm": 14.9,
+      "minStrokeMm": 1.0535891039679537,
+      "minGapMm": 0.7023927359786357,
+      "lines": [
+        "曦馨罐"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 17.7,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "曦馨罐",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 130.1,
+      "inkWidthMm": 60.6667,
+      "inkHeightMm": 19.0667,
+      "sizeMm": 20.8,
+      "minStrokeMm": 1.470782104868016,
+      "minGapMm": 0.9805214032453439,
+      "lines": [
+        "曦馨罐"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 23.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 62.2917,
+      "inkHeightMm": 11.5,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "陈小山_dev9"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "陈小山_dev9",
+        "startMm": 13.11,
+        "sizeMm": 13.2,
+        "minStrokeMm": 0.9333809511662409,
+        "minGapMm": 1.0999999999999943,
+        "lines": [
+          "陈小山_dev9"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 71.5,
+        "heightMm": 13.2
+      },
+      "alternatives": [
+        {
+          "nameSize": "small",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 111
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 116.5
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 122.5
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 124.2
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 129.5
+        }
+      ]
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 116.5,
+      "inkWidthMm": 100.2083,
+      "inkHeightMm": 18.5,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小山_dev9"
+      ],
+      "frontBandMm": 21.5,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 122.5,
+      "inkWidthMm": 62.2917,
+      "inkHeightMm": 11.5,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "陈小山_dev9"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 15.5,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 124.2,
+      "inkWidthMm": 71.5,
+      "inkHeightMm": 13.2,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "陈小山_dev9"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 17.2,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "陈小山_dev9",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 129.5,
+      "inkWidthMm": 100.2083,
+      "inkHeightMm": 18.5,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5416666666666634,
+      "lines": [
+        "陈小山_dev9"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 22.5,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 61.3333,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 70.4,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 98.6667,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 61.3333,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 70.4,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "sample-user",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 98.6667,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "sample-user"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 81.4583,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 93.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 131.0417,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 81.4583,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 93.5,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "skyline_dev2026",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 131.0417,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "skyline_dev2026"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 80.5,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 92.4,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 129.5,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 80.5,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 92.4,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "build-agent_123",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 129.5,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "build-agent_123"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 78.5833,
+      "inkHeightMm": 8.625,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 90.2,
+      "inkHeightMm": 9.9,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111.9,
+      "inkWidthMm": 126.4167,
+      "inkHeightMm": 13.875,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16.9,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 119.7,
+      "inkWidthMm": 78.5833,
+      "inkHeightMm": 8.625,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 12.7,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 120.9,
+      "inkWidthMm": 90.2,
+      "inkHeightMm": 9.9,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 13.9,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "alexanderbuilds",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 124.9,
+      "inkWidthMm": 126.4167,
+      "inkHeightMm": 13.875,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5416666666666572,
+      "lines": [
+        "alexanderbuilds"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 17.9,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 56.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645287,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 111,
+      "inkWidthMm": 64.9,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662415,
+      "minGapMm": 1.0999999999999979,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 115,
+      "inkWidthMm": 90.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951114,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 20,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 56.5417,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645287,
+      "minGapMm": 0.9583333333333321,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 64.9,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662415,
+      "minGapMm": 1.0999999999999979,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "2026_01-05",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 128,
+      "inkWidthMm": 90.9583,
+      "inkHeightMm": 16.9583,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951114,
+      "minGapMm": 1.5416666666666643,
+      "lines": [
+        "2026_01-05"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 21,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "WIDE_username_2026_build",
+        "startMm": 3.2,
+        "sizeMm": 11.5,
+        "minStrokeMm": 0.8131727983645284,
+        "minGapMm": 0.9583333333333144,
+        "lines": [
+          "WIDE_username_2026_build"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 138,
+        "heightMm": 10.5417
+      },
+      "alternatives": [
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 133.5
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 121.6
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 123.1
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 146.5
+        }
+      ]
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "WIDE_username_2026_build",
+        "startMm": 13.11,
+        "sizeMm": 13.2,
+        "minStrokeMm": 0.9333809511662412,
+        "minGapMm": 1.0999999999999943,
+        "lines": [
+          "WIDE_username_2026_build"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 158.4,
+        "heightMm": 12.1
+      },
+      "alternatives": [
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 133.5
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 121.6
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 123.1
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 146.5
+        }
+      ]
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 133.5,
+      "inkWidthMm": 135.6667,
+      "inkHeightMm": 35.4167,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5,
+      "lines": [
+        "WIDE_username_",
+        "2026_build"
+      ],
+      "frontBandMm": 38.5,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 121.6,
+      "inkWidthMm": 138,
+      "inkHeightMm": 10.5417,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.8131727983645284,
+      "minGapMm": 0.9583333333333144,
+      "lines": [
+        "WIDE_username_2026_build"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 14.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 123.1,
+      "inkWidthMm": 158.4,
+      "inkHeightMm": 12.1,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662412,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "WIDE_username_2026_build"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 16.1,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "WIDE_username_2026_build",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 146.5,
+      "inkWidthMm": 154.1667,
+      "inkHeightMm": 35.4167,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951108,
+      "minGapMm": 1.5,
+      "lines": [
+        "WIDE_username_20",
+        "26_build"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 39.5,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "欧阳司马诸葛上官夏侯东方南宫长孙",
+        "startMm": 6.4,
+        "sizeMm": 11.5,
+        "minStrokeMm": 0.813172798364528,
+        "minGapMm": 0.9583333333333286,
+        "lines": [
+          "欧阳司马诸葛上官夏侯东方南",
+          "宫长孙"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 148.5417,
+        "heightMm": 22.5833
+      },
+      "alternatives": [
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 146.1
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 133.6
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 136.7
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 146.5
+        }
+      ]
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Name layout: measured lettering cannot fit the selected front band. Choose Large or the rear apron, or edit the name.",
+      "fullBandMeasurement": {
+        "text": "欧阳司马诸葛上官夏侯东方南宫长孙",
+        "startMm": 13.11,
+        "sizeMm": 13.2,
+        "minStrokeMm": 0.9333809511662409,
+        "minGapMm": 1.0999999999999943,
+        "lines": [
+          "欧阳司马诸葛上官夏侯东方",
+          "南宫长孙"
+        ],
+        "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+        "qualified": false,
+        "widthMm": 157.3,
+        "heightMm": 25.7
+      },
+      "alternatives": [
+        {
+          "nameSize": "large",
+          "namePlacement": "front",
+          "width": 171.79999999999998,
+          "depth": 146.1
+        },
+        {
+          "nameSize": "small",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 133.6
+        },
+        {
+          "nameSize": "medium",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 136.7
+        },
+        {
+          "nameSize": "large",
+          "namePlacement": "rear",
+          "width": 171.79999999999998,
+          "depth": 146.5
+        }
+      ]
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 146.1,
+      "inkWidthMm": 146.4583,
+      "inkHeightMm": 35.4167,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5,
+      "lines": [
+        "欧阳司马诸葛上官",
+        "夏侯东方南宫长孙"
+      ],
+      "frontBandMm": 51.1,
+      "rearBandMm": 4,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 133.6,
+      "inkWidthMm": 148.5417,
+      "inkHeightMm": 22.5833,
+      "sizeMm": 11.5,
+      "minStrokeMm": 0.813172798364528,
+      "minGapMm": 0.9583333333333286,
+      "lines": [
+        "欧阳司马诸葛上官夏侯东方南",
+        "宫长孙"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 26.6,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 136.7,
+      "inkWidthMm": 157.3,
+      "inkHeightMm": 25.7,
+      "sizeMm": 13.2,
+      "minStrokeMm": 0.9333809511662409,
+      "minGapMm": 1.0999999999999943,
+      "lines": [
+        "欧阳司马诸葛上官夏侯东方",
+        "南宫长孙"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 29.7,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "欧阳司马诸葛上官夏侯东方南宫长孙",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": true,
+      "widthMm": 171.8,
+      "depthMm": 146.5,
+      "inkWidthMm": 146.4583,
+      "inkHeightMm": 35.4167,
+      "sizeMm": 18.5,
+      "minStrokeMm": 1.3081475451951103,
+      "minGapMm": 1.5,
+      "lines": [
+        "欧阳司马诸葛上官",
+        "夏侯东方南宫长孙"
+      ],
+      "frontBandMm": 16,
+      "rearBandMm": 39.5,
+      "geometryChecks": "passed",
+      "physicallyQualified": false
+    },
+    {
+      "name": "龘",
+      "nameSize": "small",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    },
+    {
+      "name": "龘",
+      "nameSize": "medium",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    },
+    {
+      "name": "龘",
+      "nameSize": "large",
+      "namePlacement": "front",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    },
+    {
+      "name": "龘",
+      "nameSize": "small",
+      "namePlacement": "rear",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    },
+    {
+      "name": "龘",
+      "nameSize": "medium",
+      "namePlacement": "rear",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    },
+    {
+      "name": "龘",
+      "nameSize": "large",
+      "namePlacement": "rear",
+      "fits": false,
+      "reason": "Missing CJK / Latin glyphs: 龘. Choose a local static TTF/OTF or edit the name.",
+      "alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "vibeskyline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "lint": "eslint src",
+    "test": "vitest run",
+    "build": "esbuild src/index.ts --bundle --platform=node --format=esm --outfile=dist/index.js"
+  },
+  "dependencies": {
+    "@vibeskyline/contracts": "workspace:*",
+    "@vibeskyline/adapters-node": "workspace:*",
+    "@vibeskyline/calendars": "workspace:*",
+    "@vibeskyline/registry": "workspace:*"
+  },
+  "bin": {
+    "vibeskyline": "dist/index.js"
+  }
+}

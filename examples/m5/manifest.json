@@ -1,0 +1,169 @@
+{
+  "github-byo-desktop.png": {
+    "sha256": "64c0e678c709bdef62237a36b41a4def5708b990160781684d1399de770372e7",
+    "bytes": 357859,
+    "activity": "deterministic synthetic",
+    "logo": "synthetic BYO",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "github-byo-model.png": {
+    "sha256": "6954fd84daff2749d3738d056e5ec9b5a6fa544d5601cdf5bcf4e81d8679f108",
+    "bytes": 203581,
+    "activity": "deterministic synthetic",
+    "logo": "synthetic BYO",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "github-model.png": {
+    "sha256": "ad1eeccb58cf9684743884da131f8cbe6a00bcebea83ac1f2b1c29df9c209852",
+    "bytes": 207815,
+    "activity": "deterministic synthetic",
+    "logo": "official GitHub Invertocat",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "github-official-desktop.png": {
+    "sha256": "d6bfc9ba630ce55ad67fe2fe29af1ee552712c993a9f35e0f5d62823cc183486",
+    "bytes": 388824,
+    "activity": "deterministic synthetic",
+    "logo": "official GitHub Invertocat",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "landing-desktop.png": {
+    "sha256": "62193f05f610afd5184817f6c4d1dfe35ccb5d378761b51099131aea385c8d13",
+    "bytes": 310401,
+    "activity": "deterministic synthetic",
+    "logo": "official GitHub Invertocat",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "switcher-mobile-zh.png": {
+    "sha256": "26ac4af23257435ec86b30c0588762063dbdfca47d17568f73d8a67361a9c1ca",
+    "bytes": 211498,
+    "activity": "deterministic synthetic",
+    "logo": "synthetic BYO",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "vibeskyline-gitee-2026.3mf": {
+    "sha256": "23e0dad95f3c3dd82c87db35bc300835182a8dba2febc4a162e4e79d2591ca71",
+    "bytes": 183544,
+    "activity": "deterministic synthetic",
+    "logo": "official Gitee mark",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "logos": [
+      {
+        "startMm": 12.5,
+        "sizeMm": 12.5,
+        "minStrokeMm": 1.3544591817864986,
+        "minGapMm": 1.3477507751033526,
+        "curveToleranceMm": 0.03,
+        "quantumMm": 0.001,
+        "method": "Eight-direction opposing-wall calipers with local bottleneck chords and nearest distances between separate contours on the quantized outline; pointed terminals and unsampled irregular walls unverified.",
+        "discardedSubmicronIslands": 0,
+        "qualified": false,
+        "provenance": {
+          "kind": "official",
+          "brand": "gitee",
+          "sourceUrl": "https://gitee.com/gitee_logos_2023.zip",
+          "sha256": "4f371ebd90f0213822625869d3c0285e2b1d56eace18f2001a915b397ebbcb8a",
+          "licenseStatus": "owner-accepted-risk"
+        }
+      }
+    ]
+  },
+  "vibeskyline-gitee-2026.stl": {
+    "sha256": "45bec163ed443ad7cb6186b17f0b5c0ac9d7ffe0b15544e0b8ef86885f597a98",
+    "bytes": 522284,
+    "activity": "deterministic synthetic",
+    "logo": "official Gitee mark",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "triangles": 10444,
+    "extentsMm": [
+      152.40257263183594,
+      36.73419189453125,
+      36
+    ]
+  },
+  "vibeskyline-github-2026.3mf": {
+    "sha256": "31d424ea3ccae67b957d7b8cf95a5dcc891c45e3eb6b9ae6895b1c2eba4a44bc",
+    "bytes": 209994,
+    "activity": "deterministic synthetic",
+    "logo": "official GitHub Invertocat",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "logos": [
+      {
+        "startMm": 12.5,
+        "sizeMm": 12.5,
+        "minStrokeMm": 0.9565896773943674,
+        "minGapMm": 0.5375120476410271,
+        "curveToleranceMm": 0.03,
+        "quantumMm": 0.001,
+        "method": "Eight-direction opposing-wall calipers with local bottleneck chords and nearest distances between separate contours on the quantized outline; pointed terminals and unsampled irregular walls unverified.",
+        "discardedSubmicronIslands": 1,
+        "qualified": false,
+        "provenance": {
+          "kind": "official",
+          "brand": "github",
+          "sourceUrl": "https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-24.svg",
+          "sha256": "bce494189797623c34e39a41c2c38a132bdca23ce4e6ac06b70116ed7e91ce26",
+          "licenseStatus": "owner-accepted-risk"
+        }
+      }
+    ]
+  },
+  "vibeskyline-github-2026.stl": {
+    "sha256": "efe7fcc87481e6fc512f3b46a34c2398bb623b25e56b6f2b9d149e91e98cf997",
+    "bytes": 558984,
+    "activity": "deterministic synthetic",
+    "logo": "official GitHub Invertocat",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "triangles": 11178,
+    "extentsMm": [
+      152.40257263183594,
+      36.73419189453125,
+      36
+    ]
+  },
+  "vibeskyline-github-byo-2026.3mf": {
+    "sha256": "87e0e45930fdeba6317c9be64c5dc42cc8e08ff93fff4ad582eb085552212e64",
+    "bytes": 65280,
+    "activity": "deterministic synthetic",
+    "logo": "synthetic BYO",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "logos": [
+      {
+        "startMm": 12.5,
+        "sizeMm": 12.5,
+        "minStrokeMm": 0.7499999999999999,
+        "minGapMm": 4.874999999999998,
+        "curveToleranceMm": 0.03,
+        "quantumMm": 0.001,
+        "method": "Eight-direction opposing-wall calipers with local bottleneck chords and nearest distances between separate contours on the quantized outline; pointed terminals and unsampled irregular walls unverified.",
+        "discardedSubmicronIslands": 0,
+        "qualified": false
+      }
+    ]
+  },
+  "vibeskyline-github-byo-2026.stl": {
+    "sha256": "e2adbad03c5d90ed92c58abcc544b988ab5892df62c99d373e6c3d69b6c98dc8",
+    "bytes": 324884,
+    "activity": "deterministic synthetic",
+    "logo": "synthetic BYO",
+    "sliced": false,
+    "physicallyPrinted": false,
+    "triangles": 6496,
+    "extentsMm": [
+      152.40257263183594,
+      36.73419189453125,
+      36
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+Date,Kind,Model,Input (w/ Cache Write),Input (w/o Cache Write),Cache Read,Output Tokens,Total Tokens,Cost
+2026-01-04T12:00:00Z,CANARY_CURSOR,synthetic,3,10,7,5,25,0

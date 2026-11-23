@@ -1,0 +1,1 @@
+window.calendar = "<span data-content='9个贡献：2025-12-31' date='20251231'></span><span data-content='0个贡献：2026-01-01' date='20260101'></span><span data-content='7个贡献：2026-01-02' date='20260102'></span>"; NEVER_EXECUTE_SYNTHETIC();

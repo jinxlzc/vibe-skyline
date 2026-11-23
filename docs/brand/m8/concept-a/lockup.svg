@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="80" viewBox="0 0 348 80" role="img" aria-label="VibeSkyline — Isometric plinth lockup">
+<title>VibeSkyline — Isometric plinth lockup</title>
+<metadata>Outlined artwork using grid; no font software embedded.
+Fusion Pixel Font
+https://github.com/TakWolf/fusion-pixel-font
+
+Copyright (c) 2022, TakWolf (https://takwolf.com).
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION &amp; CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+</metadata>
+<g transform="translate(4 8) scale(1)">
+<polygon points="4,38 34,23 60,36 30,51" fill="#202d29"/>
+<polygon points="4,38 30,51 30,59 2,44" fill="#0D1117"/>
+<polygon points="30,51 60,36 62,44 30,59" fill="#234c40"/>
+<polygon points="27,7 32,10 32,32 27,29" fill="#39D385"/>
+<polygon points="32,10 37,7 37,29 32,32" fill="#239862"/>
+<polygon points="32,4 37,7 32,10 27,7" fill="#89EAB8"/>
+<polygon points="13,23 18,26 18,39 13,36" fill="#39D385"/>
+<polygon points="18,26 23,23 23,36 18,39" fill="#239862"/>
+<polygon points="18,20 23,23 18,26 13,23" fill="#89EAB8"/>
+<polygon points="39,17 44,20 44,39 39,36" fill="#39D385"/>
+<polygon points="44,20 49,17 49,36 44,39" fill="#239862"/>
+<polygon points="44,14 49,17 44,20 39,17" fill="#89EAB8"/>
+<polygon points="25,31 30,34 30,46 25,43" fill="#39D385"/>
+<polygon points="30,34 35,31 35,43 30,46" fill="#239862"/>
+<polygon points="30,28 35,31 30,34 25,31" fill="#89EAB8"/>
+</g>
+<path fill="#202d29" d="M88 16H92V21.6L94.4 24H96V33.6L98.4 36H100V41.6L102.4 44H101.6L104 41.6V36H105.6L108 33.6V24H109.6L112 21.6V16H116V24H114.4L112 26.4V36H110.4L108 38.4V44H106.4L104 46.4V52H100V46.4L97.6 44H96V38.4L93.6 36H92V26.4L89.6 24H88Z M124 16H128V20H124ZM120 28H128V48H132V52H120V48H124V32H120Z M136 16H140V28H152V29.6L154.4 32H156V48H154.4L152 50.4V52H136ZM149.6 32H140V48H149.6L152 45.6V34.4Z M164 28H176V29.6L178.4 32H180V40H164V45.6L166.4 48H173.6L176 45.6V44H180V48H178.4L176 50.4V52H164V50.4L161.6 48H160V32H161.6L164 29.6ZM173.6 32H166.4L164 34.4V36H176V34.4Z M188 16H204V17.6L206.4 20H208V24H204V22.4L201.6 20H190.4L188 22.4V25.6L190.4 28H192V29.6L194.4 32H200V33.6L202.4 36H204V37.6L206.4 40H208V48H206.4L204 50.4V52H188V50.4L185.6 48H184V44H188V45.6L190.4 48H201.6L204 45.6V42.4L201.6 40H200V38.4L197.6 36H192V34.4L189.6 32H188V30.4L185.6 28H184V20H185.6L188 17.6Z M212 16H216V36H217.6L220 33.6V32H225.6L228 29.6V28H232V32H230.4L228 34.4V36H222.4L220 38.4V37.6L222.4 40H224V41.6L226.4 44H228V45.6L230.4 48H232V52H228V50.4L225.6 48H224V46.4L221.6 44H220V42.4L217.6 40H216V52H212Z M236 28H240V37.6L242.4 40H244V45.6L246.4 48H245.6L248 45.6V40H249.6L252 37.6V28H256V40H254.4L252 42.4V48H250.4L248 50.4V56H246.4L244 58.4V60H236V56H241.6L244 53.6V50.4L241.6 48H240V42.4L237.6 40H236Z M260 16H268V48H272V52H264V20H260Z M280 16H284V20H280ZM276 28H284V48H288V52H276V48H280V32H276Z M292 28H296V32H297.6L300 29.6V28H308V29.6L310.4 32H312V52H308V34.4L305.6 32H302.4L300 34.4V36H296V52H292Z M320 28H332V29.6L334.4 32H336V40H320V45.6L322.4 48H329.6L332 45.6V44H336V48H334.4L332 50.4V52H320V50.4L317.6 48H316V32H317.6L320 29.6ZM329.6 32H322.4L320 34.4V36H332V34.4Z"/>
+</svg>

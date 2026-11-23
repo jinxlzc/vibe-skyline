@@ -1,0 +1,4365 @@
+{
+  "method": "Each size uses the production layoutName function with a common 145 mm comparison line (independent of the plinth). Vertically tall or multi-line names can pass a feature check while exceeding the front band. Nonselected fonts are research only. See lettering-matrix.json for selected-face actual plinth and mesh tests.",
+  "variants": "Noto and Oswald numeric suffixes are instantiated variable-axis weights. Heiti-80 is a 0.08 em stroke with 16-sided round caps/joins and NonZero overlapping contours. Other -0 suffixes are static corpus subsets. Source SHA-256 identifies original unmodified input data, except historical assets and the explicitly identified finished VibeSkyline Grid derivative.",
+  "candidates": [
+    {
+      "candidate": "LXGW WenKai Medium",
+      "sourceUrl": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/e52e0e1e9f561f1caa2e14c8154d3a1accee834a/fonts/TTF/LXGWWenKai-Medium.ttf",
+      "sourceSha256": "f4b8a34d1f838fe411540cb7c97b1c384ac9738a876c4104500bc42508b2312a",
+      "version": "Version 1.530; October 18, 2026",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "LXGW-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 928.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 928.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 928.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 44.6,
+          "inkWidthMm": 85.677,
+          "inkHeightMm": 41.701,
+          "minStrokeMm": 1.863177362003748,
+          "minGapMm": 0.6103435644242836,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 50.9,
+          "inkWidthMm": 97.779,
+          "inkHeightMm": 47.592,
+          "minStrokeMm": 2.126361608206071,
+          "minGapMm": 0.6965580141075345,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 71.4,
+          "inkWidthMm": 137.159,
+          "inkHeightMm": 66.759,
+          "minStrokeMm": 2.982754790292996,
+          "minGapMm": 0.9770970964101762,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 640.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 640.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 640.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 10015.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 10015.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 10015.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 399.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 399.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 399.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 15.4,
+          "inkWidthMm": 45.106,
+          "inkHeightMm": 13.567,
+          "minStrokeMm": 0.8134770953130951,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 17.6,
+          "inkWidthMm": 51.435,
+          "inkHeightMm": 15.506,
+          "minStrokeMm": 0.9296881089292516,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 24.7,
+          "inkWidthMm": 71.862,
+          "inkHeightMm": 21.761,
+          "minStrokeMm": 1.3047327437813927,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 17,
+          "inkWidthMm": 131.158,
+          "inkHeightMm": 15.13,
+          "minStrokeMm": 0.8135409884519298,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 19.4,
+          "inkWidthMm": 137.657,
+          "inkHeightMm": 33.161,
+          "minStrokeMm": 0.9283938338804375,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev202",
+            "6"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 27.2,
+          "inkWidthMm": 144.074,
+          "inkHeightMm": 45.809,
+          "minStrokeMm": 1.3016655815230878,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev",
+            "2026"
+          ]
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 577477.7 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 577477.7 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "LXGW-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 577477.7 mm, above 96 mm. Choose a different font or edit the name."
+        }
+      ]
+    },
+    {
+      "candidate": "Zen Maru Gothic",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+      "sourceSha256": "fe24426b9c8b5523a0146a8235c8674eccf0493af354a53ec895c3596d9eb745",
+      "version": "Version 1.001",
+      "GB2312Level1": 2384,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Zen-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 78.9,
+          "inkWidthMm": 144.82,
+          "inkHeightMm": 145.808,
+          "minStrokeMm": 8.525496948609911,
+          "minGapMm": 0.61005757386291,
+          "lines": [
+            "林",
+            "小川"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 90,
+          "inkWidthMm": 88.025,
+          "inkHeightMm": 246.36,
+          "minStrokeMm": 9.724901462292674,
+          "minGapMm": 0.6958831641021788,
+          "lines": [
+            "林",
+            "小",
+            "川"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 126.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 34506.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 34506.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 34506.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 181.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 181.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 181.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 11,
+          "inkWidthMm": 30.438,
+          "inkHeightMm": 10.032,
+          "minStrokeMm": 0.8165374042388645,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 12.6,
+          "inkWidthMm": 34.749,
+          "inkHeightMm": 11.491,
+          "minStrokeMm": 0.9353064812190629,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 17.6,
+          "inkWidthMm": 48.529,
+          "inkHeightMm": 16.051,
+          "minStrokeMm": 1.3064598467821833,
+          "minGapMm": 1.1088000000000022,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 15.2,
+          "inkWidthMm": 109.44,
+          "inkHeightMm": 13.862,
+          "minStrokeMm": 0.8141537491670638,
+          "minGapMm": 0.9282734139353642,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 17.4,
+          "inkWidthMm": 125.28,
+          "inkHeightMm": 15.869,
+          "minStrokeMm": 0.9319917918096652,
+          "minGapMm": 1.0626287764786406,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 24.4,
+          "inkWidthMm": 140.692,
+          "inkHeightMm": 41.345,
+          "minStrokeMm": 1.3069310183997604,
+          "minGapMm": 1.490123111843611,
+          "lines": [
+            "skyline_dev2",
+            "026"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 15.2,
+          "inkWidthMm": 109.136,
+          "inkHeightMm": 13.862,
+          "minStrokeMm": 0.8141537491670638,
+          "minGapMm": 0.9282734139353642,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 17.4,
+          "inkWidthMm": 124.932,
+          "inkHeightMm": 15.869,
+          "minStrokeMm": 0.9319917918096652,
+          "minGapMm": 1.0626287764786406,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Zen-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 24.4,
+          "inkWidthMm": 142.032,
+          "inkHeightMm": 41.345,
+          "minStrokeMm": 1.3069310183997604,
+          "minGapMm": 1.490123111843611,
+          "lines": [
+            "build-agent_",
+            "123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Klee One SemiBold",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/kleeone/KleeOne-SemiBold.ttf",
+      "sourceSha256": "b031ec426c23ca1143ef1f7d58bee7a79efe119ed654152f121c922202b303fd",
+      "version": "Version 1.100",
+      "GB2312Level1": 2501,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Klee-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 78220.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 78220.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 78220.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 606.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 606.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 606.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 102.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 102.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 102.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 17.9,
+          "inkWidthMm": 51.749,
+          "inkHeightMm": 15.555,
+          "minStrokeMm": 0.8100419207652745,
+          "minGapMm": 1.7363,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 20.5,
+          "inkWidthMm": 59.266,
+          "inkHeightMm": 17.814,
+          "minStrokeMm": 0.9277016410998955,
+          "minGapMm": 1.988500000000002,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 28.7,
+          "inkWidthMm": 82.972,
+          "inkHeightMm": 24.94,
+          "minStrokeMm": 1.2987822975398537,
+          "minGapMm": 2.7839000000000027,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 22.5,
+          "inkWidthMm": 144.845,
+          "inkHeightMm": 37.68,
+          "minStrokeMm": 0.811625872320602,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev20",
+            "26"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 25.7,
+          "inkWidthMm": 135.699,
+          "inkHeightMm": 42.748,
+          "minStrokeMm": 0.9270571074950875,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev",
+            "2026"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 36,
+          "inkWidthMm": 140.148,
+          "inkHeightMm": 59.208,
+          "minStrokeMm": 1.2986013957129632,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_",
+            "dev2026"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 22.5,
+          "inkWidthMm": 138.478,
+          "inkHeightMm": 37.86,
+          "minStrokeMm": 0.811625872320602,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_1",
+            "23"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 25.7,
+          "inkWidthMm": 134.848,
+          "inkHeightMm": 46.706,
+          "minStrokeMm": 0.9270571074950875,
+          "minGapMm": 1.5,
+          "lines": [
+            "build-agent",
+            "_123"
+          ]
+        },
+        {
+          "variant": "Klee-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 36,
+          "inkWidthMm": 133.568,
+          "inkHeightMm": 64.824,
+          "minStrokeMm": 1.2986013957129632,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-ag",
+            "ent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Rounded Mplus 1c",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/mplusrounded1c/MPLUSRounded1c-Bold.ttf",
+      "sourceSha256": "c698330e24aadd0da80cab1f321eee9c052d41b66ef84e7e5379e81fb084a890",
+      "version": "Version 1.060",
+      "GB2312Level1": 2167,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Rounded-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 泽. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 15.3,
+          "inkWidthMm": 44.63,
+          "inkHeightMm": 13.862,
+          "minStrokeMm": 1.4780585825558232,
+          "minGapMm": 0.6114903801971292,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 17.5,
+          "inkWidthMm": 51.047,
+          "inkHeightMm": 15.855,
+          "minStrokeMm": 1.6905898820082945,
+          "minGapMm": 0.699417101532664,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 24.5,
+          "inkWidthMm": 71.466,
+          "inkHeightMm": 22.197,
+          "minStrokeMm": 2.3668258348116122,
+          "minGapMm": 0.9791839421457297,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 11.2,
+          "inkWidthMm": 35.84,
+          "inkHeightMm": 10.853,
+          "minStrokeMm": 0.8131308350601978,
+          "minGapMm": 1.1536000000000008,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 12.8,
+          "inkWidthMm": 40.96,
+          "inkHeightMm": 12.403,
+          "minStrokeMm": 0.9292923829259405,
+          "minGapMm": 1.318399999999997,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 18,
+          "inkWidthMm": 57.6,
+          "inkHeightMm": 17.442,
+          "minStrokeMm": 1.3068174134896038,
+          "minGapMm": 1.8539999999999992,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 12.3,
+          "inkWidthMm": 102.042,
+          "inkHeightMm": 11.931,
+          "minStrokeMm": 0.8155695892612588,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 14.1,
+          "inkWidthMm": 116.741,
+          "inkHeightMm": 13.677,
+          "minStrokeMm": 0.9349212364702234,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 19.7,
+          "inkWidthMm": 137.313,
+          "inkHeightMm": 35.384,
+          "minStrokeMm": 1.306237472231447,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev20",
+            "26"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 12.3,
+          "inkWidthMm": 100.971,
+          "inkHeightMm": 12.054,
+          "minStrokeMm": 0.8127937648085665,
+          "minGapMm": 0.8241000000000014,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 14.1,
+          "inkWidthMm": 115.747,
+          "inkHeightMm": 13.818,
+          "minStrokeMm": 0.931739193804942,
+          "minGapMm": 0.9447000000000116,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Rounded-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 19.7,
+          "inkWidthMm": 134.236,
+          "inkHeightMm": 35.581,
+          "minStrokeMm": 1.3017916395714437,
+          "minGapMm": 1.319900000000004,
+          "lines": [
+            "build-agent_1",
+            "23"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Noto Sans SC Thin",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "sourceSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "version": "Version 2.004-H2;hotconv 1.0.118;makeotfexe 2.5.65603",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Noto-300.ttf",
+        "Noto-400.ttf",
+        "Noto-550.ttf",
+        "Noto-700.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 26.6,
+          "inkWidthMm": 78.656,
+          "inkHeightMm": 24.339,
+          "minStrokeMm": 1.0113094632795085,
+          "minGapMm": 0.6117999999999971,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 30.4,
+          "inkWidthMm": 89.893,
+          "inkHeightMm": 27.816,
+          "minStrokeMm": 1.1557822437480099,
+          "minGapMm": 0.6991999999999967,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 42.6,
+          "inkWidthMm": 125.968,
+          "inkHeightMm": 38.979,
+          "minStrokeMm": 1.6196159073574086,
+          "minGapMm": 0.9797999999999955,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 19.5,
+          "inkWidthMm": 37.713,
+          "inkHeightMm": 17.823,
+          "minStrokeMm": 0.8110451690787376,
+          "minGapMm": 1.3649999999999995,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 22.3,
+          "inkWidthMm": 43.128,
+          "inkHeightMm": 20.382,
+          "minStrokeMm": 0.9275029369464537,
+          "minGapMm": 1.5609999999999995,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 31.2,
+          "inkWidthMm": 60.341,
+          "inkHeightMm": 28.517,
+          "minStrokeMm": 1.29767227052598,
+          "minGapMm": 2.1839999999999993,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 21.2,
+          "inkWidthMm": 61.31,
+          "inkHeightMm": 19.419,
+          "minStrokeMm": 0.8127186297652256,
+          "minGapMm": 1.0811999999999997,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 24.2,
+          "inkWidthMm": 69.986,
+          "inkHeightMm": 22.167,
+          "minStrokeMm": 0.9277259830338895,
+          "minGapMm": 1.2341999999999997,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 34,
+          "inkWidthMm": 98.328,
+          "inkHeightMm": 31.144,
+          "minStrokeMm": 1.303416670378192,
+          "minGapMm": 1.7339999999999995,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "emMm": 67.8,
+          "inkWidthMm": 133.091,
+          "inkHeightMm": 124.964,
+          "minStrokeMm": 2.0907398053844664,
+          "minGapMm": 0.6101999999999963,
+          "lines": [
+            "曦馨",
+            "罐"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "emMm": 77.3,
+          "inkWidthMm": 74.594,
+          "inkHeightMm": 213.952,
+          "minStrokeMm": 2.3836900731005786,
+          "minGapMm": 0.6956999999999958,
+          "lines": [
+            "曦",
+            "馨",
+            "罐"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 108.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "emMm": 23.9,
+          "inkWidthMm": 46.748,
+          "inkHeightMm": 21.94,
+          "minStrokeMm": 0.8125999999999953,
+          "minGapMm": 0.7647999999999985,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "emMm": 27.3,
+          "inkWidthMm": 53.399,
+          "inkHeightMm": 25.061,
+          "minStrokeMm": 0.9281999999999948,
+          "minGapMm": 0.8735999999999984,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "emMm": 38.3,
+          "inkWidthMm": 74.915,
+          "inkHeightMm": 35.159,
+          "minStrokeMm": 1.3021999999999925,
+          "minGapMm": 1.2255999999999976,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 21.1,
+          "inkWidthMm": 58.932,
+          "inkHeightMm": 22.05,
+          "minStrokeMm": 0.811215755742491,
+          "minGapMm": 1.7935000000000088,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 24.1,
+          "inkWidthMm": 67.311,
+          "inkHeightMm": 25.184,
+          "minStrokeMm": 0.9265544887864471,
+          "minGapMm": 2.048499999999997,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 33.8,
+          "inkWidthMm": 94.403,
+          "inkHeightMm": 35.321,
+          "minStrokeMm": 1.2994830589619049,
+          "minGapMm": 2.8729999999999905,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 22.7,
+          "inkWidthMm": 143.674,
+          "inkHeightMm": 42.133,
+          "minStrokeMm": 0.8131155935926497,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev20",
+            "26"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 25.9,
+          "inkWidthMm": 137.112,
+          "inkHeightMm": 47.861,
+          "minStrokeMm": 0.9277398182400717,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev",
+            "2026"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 36.4,
+          "inkWidthMm": 133.624,
+          "inkHeightMm": 68.585,
+          "minStrokeMm": 1.303850555364425,
+          "minGapMm": 0.9099999999999966,
+          "lines": [
+            "skyline_",
+            "dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 24.1,
+          "inkWidthMm": 139.134,
+          "inkHeightMm": 44.976,
+          "minStrokeMm": 0.8125104049162664,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_",
+            "123"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 27.5,
+          "inkWidthMm": 143.357,
+          "inkHeightMm": 54.383,
+          "minStrokeMm": 0.927138428846362,
+          "minGapMm": 1.5,
+          "lines": [
+            "build-agent",
+            "_123"
+          ]
+        },
+        {
+          "variant": "Noto-300.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 38.6,
+          "inkWidthMm": 144.017,
+          "inkHeightMm": 75.728,
+          "minStrokeMm": 1.3013652128534392,
+          "minGapMm": 1.0035999999999987,
+          "lines": [
+            "build-ag",
+            "ent_123"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 30.5,
+          "inkWidthMm": 90.402,
+          "inkHeightMm": 28.243,
+          "minStrokeMm": 1.6886635351856343,
+          "minGapMm": 0.6100000000000005,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 34.8,
+          "inkWidthMm": 103.147,
+          "inkHeightMm": 32.225,
+          "minStrokeMm": 1.926737410638035,
+          "minGapMm": 0.6960000000000005,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 48.9,
+          "inkWidthMm": 144.94,
+          "inkHeightMm": 45.281,
+          "minStrokeMm": 2.7073982580517217,
+          "minGapMm": 0.9780000000000009,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 15.7,
+          "inkWidthMm": 30.537,
+          "inkHeightMm": 14.523,
+          "minStrokeMm": 0.9934096804754274,
+          "minGapMm": 0.6122999999999993,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 17.9,
+          "inkWidthMm": 34.816,
+          "inkHeightMm": 16.557,
+          "minStrokeMm": 1.1326135847458696,
+          "minGapMm": 0.6980999999999992,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 25.2,
+          "inkWidthMm": 49.014,
+          "inkHeightMm": 23.31,
+          "minStrokeMm": 1.5945174489159728,
+          "minGapMm": 0.9827999999999989,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 14.2,
+          "inkWidthMm": 41.114,
+          "inkHeightMm": 13.192,
+          "minStrokeMm": 0.8135806176511433,
+          "minGapMm": 0.6247999999999987,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 16.2,
+          "inkWidthMm": 46.834,
+          "inkHeightMm": 15.05,
+          "minStrokeMm": 0.9281694370386283,
+          "minGapMm": 0.7127999999999984,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 22.8,
+          "inkWidthMm": 65.915,
+          "inkHeightMm": 21.181,
+          "minStrokeMm": 1.3063125410173289,
+          "minGapMm": 1.0031999999999979,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 121.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 121.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 121.5 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 119.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 119.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 119.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 15,
+          "inkWidthMm": 44.145,
+          "inkHeightMm": 15.57,
+          "minStrokeMm": 0.8112259479105128,
+          "minGapMm": 1.1699999999999982,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 17.1,
+          "inkWidthMm": 50.325,
+          "inkHeightMm": 17.75,
+          "minStrokeMm": 0.9247975806179847,
+          "minGapMm": 1.3338000000000036,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 24,
+          "inkWidthMm": 70.632,
+          "inkHeightMm": 24.912,
+          "minStrokeMm": 1.2979615166568204,
+          "minGapMm": 1.872000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 17,
+          "inkWidthMm": 131.224,
+          "inkHeightMm": 17.51,
+          "minStrokeMm": 0.8123096535603878,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 19.4,
+          "inkWidthMm": 138.734,
+          "inkHeightMm": 36.207,
+          "minStrokeMm": 0.9269886634747954,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev202",
+            "6"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 27.2,
+          "inkWidthMm": 134.95,
+          "inkHeightMm": 50.161,
+          "minStrokeMm": 1.2996954456966203,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_de",
+            "v2026"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 15.5,
+          "inkWidthMm": 117.98,
+          "inkHeightMm": 16.213,
+          "minStrokeMm": 0.8112400682646853,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 17.7,
+          "inkWidthMm": 134.612,
+          "inkHeightMm": 18.514,
+          "minStrokeMm": 0.9263838198893504,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-400.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 24.8,
+          "inkWidthMm": 134.044,
+          "inkHeightMm": 49.414,
+          "minStrokeMm": 1.2979841092234965,
+          "minGapMm": 1.5,
+          "lines": [
+            "build-agent",
+            "_123"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 39.5,
+          "inkWidthMm": 117.394,
+          "inkHeightMm": 37.09,
+          "minStrokeMm": 2.8319917194282294,
+          "minGapMm": 0.6111734662200312,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 45.1,
+          "inkWidthMm": 134.037,
+          "inkHeightMm": 42.349,
+          "minStrokeMm": 3.2334892796509656,
+          "minGapMm": 0.6978208437094534,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 63.2,
+          "inkWidthMm": 124.125,
+          "inkHeightMm": 116.714,
+          "minStrokeMm": 4.531186751085166,
+          "minGapMm": 0.97787754595205,
+          "lines": [
+            "李泽",
+            "辰"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 11.6,
+          "inkWidthMm": 22.921,
+          "inkHeightMm": 10.858,
+          "minStrokeMm": 0.9800552544990138,
+          "minGapMm": 0.6147999999999999,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 13.3,
+          "inkWidthMm": 26.163,
+          "inkHeightMm": 12.449,
+          "minStrokeMm": 1.123684041796283,
+          "minGapMm": 0.7049,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 18.6,
+          "inkWidthMm": 36.382,
+          "inkHeightMm": 17.41,
+          "minStrokeMm": 1.571467908076005,
+          "minGapMm": 0.9114000000000004,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 17,
+          "inkWidthMm": 49.182,
+          "inkHeightMm": 15.98,
+          "minStrokeMm": 1.3235151542923382,
+          "minGapMm": 0.6119999999999981,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 19.4,
+          "inkWidthMm": 56.066,
+          "inkHeightMm": 18.236,
+          "minStrokeMm": 1.510364352545374,
+          "minGapMm": 0.6983999999999977,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 27.2,
+          "inkWidthMm": 78.608,
+          "inkHeightMm": 25.568,
+          "minStrokeMm": 2.117624246867741,
+          "minGapMm": 0.9791999999999969,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 4656.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 4656.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 4656.2 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 276.8 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 276.8 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 276.8 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 35.53,
+          "inkHeightMm": 11.857,
+          "minStrokeMm": 0.8137613356586845,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 40.775,
+          "inkHeightMm": 13.609,
+          "minStrokeMm": 0.9340564896256204,
+          "minGapMm": 0.9107999999999983,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 57.146,
+          "inkHeightMm": 19.074,
+          "minStrokeMm": 1.309094322581362,
+          "minGapMm": 1.2764999999999986,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 12.9,
+          "inkWidthMm": 103.833,
+          "inkHeightMm": 13.235,
+          "minStrokeMm": 0.8111300156454809,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 14.8,
+          "inkWidthMm": 118.712,
+          "inkHeightMm": 15.185,
+          "minStrokeMm": 0.9305987776397766,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 20.7,
+          "inkWidthMm": 141.767,
+          "inkHeightMm": 38.574,
+          "minStrokeMm": 1.3015807227799576,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev20",
+            "26"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 12.3,
+          "inkWidthMm": 96.888,
+          "inkHeightMm": 12.829,
+          "minStrokeMm": 0.8160497460767808,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 14.1,
+          "inkWidthMm": 110.907,
+          "inkHeightMm": 14.706,
+          "minStrokeMm": 0.9354716601367975,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-550.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 19.7,
+          "inkWidthMm": 143.428,
+          "inkHeightMm": 37.118,
+          "minStrokeMm": 1.3070065038790717,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_12",
+            "3"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 35.9,
+          "inkWidthMm": 106.874,
+          "inkHeightMm": 34.033,
+          "minStrokeMm": 3.056528552152874,
+          "minGapMm": 0.6102999999999985,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 41,
+          "inkWidthMm": 122.057,
+          "inkHeightMm": 38.868,
+          "minStrokeMm": 3.490742914714981,
+          "minGapMm": 0.6969999999999983,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 57.5,
+          "inkWidthMm": 113.218,
+          "inkHeightMm": 107.588,
+          "minStrokeMm": 4.8955540877100345,
+          "minGapMm": 0.9774999999999977,
+          "lines": [
+            "李泽",
+            "辰"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 12.8,
+          "inkWidthMm": 25.466,
+          "inkHeightMm": 12.07,
+          "minStrokeMm": 1.273590408589028,
+          "minGapMm": 0.6143999999999998,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 14.6,
+          "inkWidthMm": 28.934,
+          "inkHeightMm": 13.768,
+          "minStrokeMm": 1.4526890597968598,
+          "minGapMm": 0.7007999999999998,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 20.5,
+          "inkWidthMm": 40.303,
+          "inkHeightMm": 19.332,
+          "minStrokeMm": 2.039734638755865,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 19.7,
+          "inkWidthMm": 56.984,
+          "inkHeightMm": 18.715,
+          "minStrokeMm": 1.8738907441610078,
+          "minGapMm": 0.6106999999999995,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 22.5,
+          "inkWidthMm": 65.002,
+          "inkHeightMm": 21.375,
+          "minStrokeMm": 2.140230545361557,
+          "minGapMm": 0.6974999999999993,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 31.6,
+          "inkWidthMm": 91.292,
+          "inkHeightMm": 30.02,
+          "minStrokeMm": 3.0058348992633426,
+          "minGapMm": 0.9795999999999991,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 22040.7 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 22040.7 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 22040.7 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 338.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 338.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 338.9 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 9.9,
+          "inkWidthMm": 31.884,
+          "inkHeightMm": 10.296,
+          "minStrokeMm": 0.8161926581189104,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 11.3,
+          "inkWidthMm": 36.169,
+          "inkHeightMm": 11.752,
+          "minStrokeMm": 0.931613842095322,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 15.9,
+          "inkWidthMm": 50.769,
+          "inkHeightMm": 16.536,
+          "minStrokeMm": 1.3108548751606743,
+          "minGapMm": 1.0016999999999996,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 11.2,
+          "inkWidthMm": 93.13,
+          "inkHeightMm": 11.592,
+          "minStrokeMm": 0.8124636996987392,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 12.8,
+          "inkWidthMm": 105.862,
+          "inkHeightMm": 13.248,
+          "minStrokeMm": 0.9285299425128448,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 18,
+          "inkWidthMm": 137.258,
+          "inkHeightMm": 33.954,
+          "minStrokeMm": 1.305745231658688,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev202",
+            "6"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 10.6,
+          "inkWidthMm": 85.769,
+          "inkHeightMm": 11.172,
+          "minStrokeMm": 0.8113841786644634,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 12.1,
+          "inkWidthMm": 97.601,
+          "inkHeightMm": 12.753,
+          "minStrokeMm": 0.9262026945132084,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Noto-700.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 17,
+          "inkWidthMm": 136.698,
+          "inkHeightMm": 17.918,
+          "minStrokeMm": 1.3012765129524415,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Oswald",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/oswald/Oswald%5Bwght%5D.ttf",
+      "sourceSha256": "5b38c246e255a12f5712d640d56bcced0472466fc68983d2d0410ec0457c2817",
+      "version": "Version 4.103;gftools[0.9.33.dev8+g029e19f]",
+      "GB2312Level1": 0,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Oswald-650.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 7.9,
+          "inkWidthMm": 21.275,
+          "inkHeightMm": 7.789,
+          "minStrokeMm": 0.8433605849841339,
+          "minGapMm": 0.6142239142669403,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 9.1,
+          "inkWidthMm": 24.031,
+          "inkHeightMm": 8.973,
+          "minStrokeMm": 0.9714659902981795,
+          "minGapMm": 0.7075237493454628,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 12.7,
+          "inkWidthMm": 32.613,
+          "inkHeightMm": 12.522,
+          "minStrokeMm": 1.3557822062403164,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 11,
+          "inkWidthMm": 75.285,
+          "inkHeightMm": 10.857,
+          "minStrokeMm": 0.8139999999999995,
+          "minGapMm": 0.649,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 12.6,
+          "inkWidthMm": 85.585,
+          "inkHeightMm": 12.436,
+          "minStrokeMm": 0.9323999999999995,
+          "minGapMm": 0.7434,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 17.6,
+          "inkWidthMm": 118.085,
+          "inkHeightMm": 17.371,
+          "minStrokeMm": 1.3023999999999993,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 12.9,
+          "inkWidthMm": 83.477,
+          "inkHeightMm": 13.145,
+          "minStrokeMm": 0.9545999999999994,
+          "minGapMm": 0.6132015663865135,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 14.8,
+          "inkWidthMm": 95.286,
+          "inkHeightMm": 15.081,
+          "minStrokeMm": 1.0951999999999993,
+          "minGapMm": 0.703518076164372,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Oswald-650.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 20.7,
+          "inkWidthMm": 132.313,
+          "inkHeightMm": 21.093,
+          "minStrokeMm": 1.531799999999999,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Barlow Condensed",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/barlowcondensed/BarlowCondensed-Bold.ttf",
+      "sourceSha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "version": "Version 1.408",
+      "GB2312Level1": 0,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Barlow-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 10.6,
+          "inkWidthMm": 26.424,
+          "inkHeightMm": 9.9,
+          "minStrokeMm": 0.9016524681083532,
+          "minGapMm": 0.6133809772344652,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 12.1,
+          "inkWidthMm": 29.531,
+          "inkHeightMm": 11.301,
+          "minStrokeMm": 1.0292447985010447,
+          "minGapMm": 0.7001801721261347,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 17,
+          "inkWidthMm": 40.273,
+          "inkHeightMm": 15.878,
+          "minStrokeMm": 1.4460464111171702,
+          "minGapMm": 0.8329999999999984,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 14.9,
+          "inkWidthMm": 91.836,
+          "inkHeightMm": 13.842,
+          "minStrokeMm": 1.2639048302940081,
+          "minGapMm": 0.6131520299777559,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 17,
+          "inkWidthMm": 103.901,
+          "inkHeightMm": 15.793,
+          "minStrokeMm": 1.4420390681206803,
+          "minGapMm": 0.6995694301759631,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 23.9,
+          "inkWidthMm": 134.927,
+          "inkHeightMm": 40.816,
+          "minStrokeMm": 2.0273372781226033,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev202",
+            "6"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 14.5,
+          "inkWidthMm": 83.953,
+          "inkHeightMm": 13.586,
+          "minStrokeMm": 1.05292316483435,
+          "minGapMm": 0.6123357015972619,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 16.6,
+          "inkWidthMm": 95.532,
+          "inkHeightMm": 15.554,
+          "minStrokeMm": 1.2054154852586352,
+          "minGapMm": 0.7010188032078999,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Barlow-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 23.3,
+          "inkWidthMm": 133.198,
+          "inkHeightMm": 21.832,
+          "minStrokeMm": 1.691938602802783,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Chakra Petch",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/chakrapetch/ChakraPetch-Bold.ttf",
+      "sourceSha256": "65fbf76d95651697275e19db4d717c0e95a789ddd3476478b05292104db278a0",
+      "version": "Version 1.000; ttfautohint (v1.6)",
+      "GB2312Level1": 0,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Chakra-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 10.6,
+          "inkWidthMm": 32.366,
+          "inkHeightMm": 9.879,
+          "minStrokeMm": 1.0044440958898289,
+          "minGapMm": 0.6147999999999999,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 12.1,
+          "inkWidthMm": 36.761,
+          "inkHeightMm": 11.277,
+          "minStrokeMm": 1.1465824113459369,
+          "minGapMm": 0.7018,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 17,
+          "inkWidthMm": 51.544,
+          "inkHeightMm": 15.844,
+          "minStrokeMm": 1.6109009085025559,
+          "minGapMm": 0.986,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 17.5,
+          "inkWidthMm": 139.495,
+          "inkHeightMm": 16.363,
+          "minStrokeMm": 1.5344096000293073,
+          "minGapMm": 0.6125000000000005,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 20,
+          "inkWidthMm": 135.16,
+          "inkHeightMm": 34.2,
+          "minStrokeMm": 1.7536109714620653,
+          "minGapMm": 0.7000000000000006,
+          "lines": [
+            "skyline_dev20",
+            "26"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 28,
+          "inkWidthMm": 140.756,
+          "inkHeightMm": 47.28,
+          "minStrokeMm": 2.4550553600468916,
+          "minGapMm": 0.9800000000000004,
+          "lines": [
+            "skyline_de",
+            "v2026"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 17.5,
+          "inkWidthMm": 132.255,
+          "inkHeightMm": 16.363,
+          "minStrokeMm": 1.3963890845866578,
+          "minGapMm": 0.6125000000000005,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 20,
+          "inkWidthMm": 139.16,
+          "inkHeightMm": 34.2,
+          "minStrokeMm": 1.595873239527609,
+          "minGapMm": 0.7000000000000006,
+          "lines": [
+            "build-agent_12",
+            "3"
+          ]
+        },
+        {
+          "variant": "Chakra-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 28,
+          "inkWidthMm": 141.568,
+          "inkHeightMm": 50.696,
+          "minStrokeMm": 2.2342225353386524,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "build-agen",
+            "t_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Jersey 10",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/869789e84da92782c144d83d69b64cec54905b5f/ofl/jersey10/Jersey10-Regular.ttf",
+      "sourceSha256": "db9cbd091617048a145d249daa2b815fe7083be6ab66ac26626e21a4e01c3e82",
+      "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)",
+      "GB2312Level1": 0,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Jersey-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 15.2,
+          "inkWidthMm": 33.386,
+          "inkHeightMm": 9.771,
+          "minStrokeMm": 0.8142857142857135,
+          "minGapMm": 0.8142857142857132,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 17.4,
+          "inkWidthMm": 38.218,
+          "inkHeightMm": 11.186,
+          "minStrokeMm": 0.9321428571428562,
+          "minGapMm": 0.9321428571428562,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 24.4,
+          "inkWidthMm": 53.593,
+          "inkHeightMm": 15.686,
+          "minStrokeMm": 1.3071428571428558,
+          "minGapMm": 1.3071428571428558,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 15.2,
+          "inkWidthMm": 85.5,
+          "inkHeightMm": 9.771,
+          "minStrokeMm": 0.8142857142857135,
+          "minGapMm": 0.8142857142857096,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 17.4,
+          "inkWidthMm": 97.875,
+          "inkHeightMm": 11.186,
+          "minStrokeMm": 0.9321428571428562,
+          "minGapMm": 0.9321428571428498,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 24.4,
+          "inkWidthMm": 137.25,
+          "inkHeightMm": 15.686,
+          "minStrokeMm": 1.3071428571428558,
+          "minGapMm": 1.3071428571428498,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 15.2,
+          "inkWidthMm": 83.057,
+          "inkHeightMm": 9.771,
+          "minStrokeMm": 0.8142857142857135,
+          "minGapMm": 0.8142857142857096,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 17.4,
+          "inkWidthMm": 95.079,
+          "inkHeightMm": 11.186,
+          "minStrokeMm": 0.9321428571428562,
+          "minGapMm": 0.9321428571428498,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Jersey-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 24.4,
+          "inkWidthMm": 133.329,
+          "inkHeightMm": 15.686,
+          "minStrokeMm": 1.3071428571428558,
+          "minGapMm": 1.3071428571428498,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "Fusion Pixel 12px Prop zh-Hans",
+      "sourceUrl": "https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.11.10/fusion-pixel-font-12px-proportional-ttf-v2026.11.10.zip",
+      "sourceSha256": "7e93fedda2c55bb37badb2262aaf43b08e3cb5976a0e3de2d90986ce59fe902e",
+      "version": "2026.11.10",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "Fusion-0.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 28.583,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666631,
+          "minGapMm": 0.816666666666664,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 32.667,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333291,
+          "minGapMm": 0.93333333333333,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 45.792,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333276,
+          "minGapMm": 1.308333333333329,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 18.783,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666654,
+          "minGapMm": 0.8166666666666659,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 21.467,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333318,
+          "minGapMm": 0.9333333333333318,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 30.092,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333313,
+          "minGapMm": 1.3083333333333318,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 28.583,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666651,
+          "minGapMm": 0.816666666666666,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 32.667,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333313,
+          "minGapMm": 0.93333333333333,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 45.792,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333307,
+          "minGapMm": 1.30833333333333,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 28.583,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666631,
+          "minGapMm": 0.8166666666666649,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 32.667,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333291,
+          "minGapMm": 0.93333333333333,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 45.792,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333276,
+          "minGapMm": 1.30833333333333,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 18.783,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666631,
+          "minGapMm": 0.816666666666664,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 21.467,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333291,
+          "minGapMm": 0.9333333333333301,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 30.092,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333276,
+          "minGapMm": 1.308333333333329,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 28.583,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666649,
+          "minGapMm": 0.8166666666666629,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 32.667,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333312,
+          "minGapMm": 0.93333333333333,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 45.792,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333305,
+          "minGapMm": 1.30833333333333,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 69.417,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666649,
+          "minGapMm": 0.8166666666666629,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 79.333,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333312,
+          "minGapMm": 0.9333333333333229,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 111.208,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333305,
+          "minGapMm": 1.308333333333323,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 9.8,
+          "inkWidthMm": 68.6,
+          "inkHeightMm": 8.983,
+          "minStrokeMm": 0.8166666666666649,
+          "minGapMm": 0.8166666666666629,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 11.2,
+          "inkWidthMm": 78.4,
+          "inkHeightMm": 10.267,
+          "minStrokeMm": 0.9333333333333312,
+          "minGapMm": 0.9333333333333229,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Fusion-0.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 15.7,
+          "inkWidthMm": 109.9,
+          "inkHeightMm": 14.392,
+          "minStrokeMm": 1.3083333333333305,
+          "minGapMm": 1.308333333333323,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ],
+      "sourceArchiveSha256": "aa6b4da3f80d95af45f41d74b37db0fa3a832d7f428adeb7234b4758d50bbae9",
+      "sourceMember": "fusion-pixel-12px-proportional-zh_hans.ttf"
+    },
+    {
+      "candidate": "Heiti genuine centerlines",
+      "sourceUrl": "https://raw.githubusercontent.com/LingDong-/chinese-hershey-font/87f5e407a36c175c1ab17f2ba4447768a7fffdab/dist/json/STRK-Heiti.json",
+      "sourceSha256": "9cbd1337a001ee179fd4e882d9857f1950cb145904dfd0774c94bf372d561989",
+      "version": "upstream commit 87f5e407a36c175c1ab17f2ba4447768a7fffdab",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "MIT converter, Source Han Sans-derived outlines (OFL); provenance reviewed for evaluation only",
+      "variants": [
+        "Heiti-80.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 33.1,
+          "inkWidthMm": 108.237,
+          "inkHeightMm": 34.424,
+          "minStrokeMm": 2.5522226425746455,
+          "minGapMm": 0.6101667528946663,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 37.8,
+          "inkWidthMm": 123.606,
+          "inkHeightMm": 39.312,
+          "minStrokeMm": 2.9146228365353952,
+          "minGapMm": 0.6968067449975341,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 53,
+          "inkWidthMm": 115.01,
+          "inkHeightMm": 108.03,
+          "minStrokeMm": 4.086640485089311,
+          "minGapMm": 0.977004166266384,
+          "lines": [
+            "李泽",
+            "辰"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 13.1,
+          "inkWidthMm": 28.31,
+          "inkHeightMm": 13.624,
+          "minStrokeMm": 1.0088648375124005,
+          "minGapMm": 0.6114453592595152,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 15,
+          "inkWidthMm": 32.3,
+          "inkHeightMm": 15.6,
+          "minStrokeMm": 1.1551887452432068,
+          "minGapMm": 0.7001282739612769,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 21,
+          "inkWidthMm": 44.94,
+          "inkHeightMm": 21.84,
+          "minStrokeMm": 1.6172642433404896,
+          "minGapMm": 0.8400000000000034,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 10.6,
+          "inkWidthMm": 34.296,
+          "inkHeightMm": 11.024,
+          "minStrokeMm": 0.8158444353368762,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 12.1,
+          "inkWidthMm": 39.083,
+          "inkHeightMm": 12.584,
+          "minStrokeMm": 0.9312941195826606,
+          "minGapMm": 0.8469999999999978,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 17,
+          "inkWidthMm": 54.91,
+          "inkHeightMm": 17.68,
+          "minStrokeMm": 1.3084297547855563,
+          "minGapMm": 1.1900000000000013,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 49882.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 49882.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 49882.4 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 311.1 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 311.1 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 311.1 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: j i n x l z c. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: j i n x l z c. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: j i n x l z c. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: s k y l i n e _ d v 2 0 6. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: s k y l i n e _ d v 2 0 6. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: s k y l i n e _ d v 2 0 6. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: b u i l d - a g e n t _ 1 2 3. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: b u i l d - a g e n t _ 1 2 3. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Heiti-80.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: b u i l d - a g e n t _ 1 2 3. Choose a local static TTF/OTF or edit the name."
+        }
+      ]
+    },
+    {
+      "candidate": "Lato Bold historical runtime asset",
+      "sourceUrl": "packages/geometry/assets/Lato-Bold.ttf",
+      "sourceSha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+      "version": "Version 2.015; 2015-08-06; http://www.latofonts.com/",
+      "GB2312Level1": 0,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "packages/geometry/assets/Lato-Bold.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 李 泽 辰. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "张伟",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "张伟",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 张 伟. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "林小川",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "林小川",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 林 小 川. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 曦 馨 罐. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 戴 薛. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 12.8,
+          "inkWidthMm": 35.962,
+          "inkHeightMm": 11.814,
+          "minStrokeMm": 0.8101672597708824,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 14.6,
+          "inkWidthMm": 40.968,
+          "inkHeightMm": 13.476,
+          "minStrokeMm": 0.9240970306761627,
+          "minGapMm": 0.8613999999999997,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 20.5,
+          "inkWidthMm": 57.523,
+          "inkHeightMm": 18.922,
+          "minStrokeMm": 1.2975335019768037,
+          "minGapMm": 1.2094999999999985,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 12.9,
+          "inkWidthMm": 97.905,
+          "inkHeightMm": 11.745,
+          "minStrokeMm": 0.8140258745542652,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 14.8,
+          "inkWidthMm": 111.972,
+          "inkHeightMm": 13.475,
+          "minStrokeMm": 0.9339211584033431,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 20.7,
+          "inkWidthMm": 143.457,
+          "inkHeightMm": 35.479,
+          "minStrokeMm": 1.3062275661452163,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev202",
+            "6"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 14.1,
+          "inkWidthMm": 102.387,
+          "inkHeightMm": 13.021,
+          "minStrokeMm": 0.8125583592246587,
+          "minGapMm": 0.7978892850756162,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 16.1,
+          "inkWidthMm": 116.688,
+          "inkHeightMm": 14.868,
+          "minStrokeMm": 0.9278148640792203,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "Lato-Bold.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 22.6,
+          "inkWidthMm": 137.046,
+          "inkHeightMm": 39.073,
+          "minStrokeMm": 1.3023985048565452,
+          "minGapMm": 0.9378999999999991,
+          "lines": [
+            "build-agent_1",
+            "23"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "VibeSkyline SC Bold historical derived asset",
+      "sourceUrl": "packages/geometry/assets/VibeSkylineSC-Bold.otf",
+      "sourceSha256": "3f3b810e6779d8dac343b32a28e5edf4822a31ce4efab04e1584f8a2924f0aed",
+      "version": "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "packages/geometry/assets/VibeSkylineSC-Bold.otf"
+      ],
+      "measurements": [
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 35.9,
+          "inkWidthMm": 106.874,
+          "inkHeightMm": 34.033,
+          "minStrokeMm": 3.0615218043764316,
+          "minGapMm": 0.6102999999999985,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 41,
+          "inkWidthMm": 122.057,
+          "inkHeightMm": 38.868,
+          "minStrokeMm": 3.4964455147474567,
+          "minGapMm": 0.6969999999999983,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 57.5,
+          "inkWidthMm": 113.218,
+          "inkHeightMm": 107.588,
+          "minStrokeMm": 4.903551636536068,
+          "minGapMm": 0.9774999999999977,
+          "lines": [
+            "李泽",
+            "辰"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 12.8,
+          "inkWidthMm": 25.466,
+          "inkHeightMm": 12.07,
+          "minStrokeMm": 1.2802880457826527,
+          "minGapMm": 0.6143999999999998,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 14.6,
+          "inkWidthMm": 28.934,
+          "inkHeightMm": 13.768,
+          "minStrokeMm": 1.460328552220838,
+          "minGapMm": 0.7007999999999998,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 20.5,
+          "inkWidthMm": 40.303,
+          "inkHeightMm": 19.332,
+          "minStrokeMm": 2.0504613233237796,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 19.7,
+          "inkWidthMm": 56.984,
+          "inkHeightMm": 18.695,
+          "minStrokeMm": 1.8624727432033767,
+          "minGapMm": 0.6106999999999989,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 22.5,
+          "inkWidthMm": 65.002,
+          "inkHeightMm": 21.352,
+          "minStrokeMm": 2.127189681323654,
+          "minGapMm": 0.6974999999999988,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 31.6,
+          "inkWidthMm": 91.292,
+          "inkHeightMm": 29.988,
+          "minStrokeMm": 2.987519730214554,
+          "minGapMm": 0.9795999999999984,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "曦馨罐",
+          "size": "small",
+          "error": "Missing CJK / Latin glyphs: 馨. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "error": "Missing CJK / Latin glyphs: 馨. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "曦馨罐",
+          "size": "large",
+          "error": "Missing CJK / Latin glyphs: 馨. Choose a local static TTF/OTF or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "戴薛",
+          "size": "small",
+          "error": "Name size: Text size exceeds the supported range: measured features require 373.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "戴薛",
+          "size": "medium",
+          "error": "Name size: Text size exceeds the supported range: measured features require 373.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "戴薛",
+          "size": "large",
+          "error": "Name size: Text size exceeds the supported range: measured features require 373.3 mm, above 96 mm. Choose a different font or edit the name."
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 9.9,
+          "inkWidthMm": 31.884,
+          "inkHeightMm": 10.296,
+          "minStrokeMm": 0.8161106061336202,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 11.3,
+          "inkWidthMm": 36.169,
+          "inkHeightMm": 11.752,
+          "minStrokeMm": 0.9315201867989806,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 15.9,
+          "inkWidthMm": 50.769,
+          "inkHeightMm": 16.536,
+          "minStrokeMm": 1.3107230946994506,
+          "minGapMm": 1.0016999999999996,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 11,
+          "inkWidthMm": 91.538,
+          "inkHeightMm": 11.385,
+          "minStrokeMm": 0.8168464553922217,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 12.6,
+          "inkWidthMm": 104.271,
+          "inkHeightMm": 13.041,
+          "minStrokeMm": 0.9356604852674538,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 17.6,
+          "inkWidthMm": 144.768,
+          "inkHeightMm": 18.216,
+          "minStrokeMm": 1.3069543286275547,
+          "minGapMm": 0.8000000000000007,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 10.2,
+          "inkWidthMm": 82.638,
+          "inkHeightMm": 10.751,
+          "minStrokeMm": 0.8126310164034071,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 11.7,
+          "inkWidthMm": 94.428,
+          "inkHeightMm": 12.332,
+          "minStrokeMm": 0.9321355776392022,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "VibeSkylineSC-Bold.otf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 16.4,
+          "inkWidthMm": 131.902,
+          "inkHeightMm": 17.286,
+          "minStrokeMm": 1.3065832028446938,
+          "minGapMm": 0.7999999999999972,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate": "VibeSkyline Grid repaired selection",
+      "sourceUrl": "packages/geometry/assets/VibeSkylineGrid-Regular.ttf",
+      "sourceSha256": "b6ea6aaa702887cbf9a7aec580b159328c61563f30877bf4ddcd12e29fb293d5",
+      "version": "2026.11.10",
+      "GB2312Level1": 3755,
+      "of3755": 3755,
+      "license": "SIL OFL 1.1",
+      "variants": [
+        "packages/geometry/assets/VibeSkylineGrid-Regular.ttf"
+      ],
+      "measurements": [
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private calibration name]",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 33.542,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 0.95833333333333,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private calibration name]",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 38.5,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662409,
+          "minGapMm": 1.0999999999999963,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private calibration name]",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 53.958,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951103,
+          "minGapMm": 1.5416666666666614,
+          "lines": [
+            "[private calibration name]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "张伟",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 22.042,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 0.9583333333333321,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "张伟",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 25.3,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662409,
+          "minGapMm": 1.0999999999999988,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "张伟",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 35.458,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951103,
+          "minGapMm": 1.5416666666666643,
+          "lines": [
+            "张伟"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "林小川",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 33.542,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 0.9583333333333321,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "林小川",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 38.5,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662409,
+          "minGapMm": 1.099999999999999,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "林小川",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 53.958,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951103,
+          "minGapMm": 1.5416666666666643,
+          "lines": [
+            "林小川"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "曦馨罐",
+          "size": "small",
+          "emMm": 13,
+          "inkWidthMm": 37.917,
+          "inkHeightMm": 11.917,
+          "minStrokeMm": 0.91923881554251,
+          "minGapMm": 0.6128258770283399,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "曦馨罐",
+          "size": "medium",
+          "emMm": 14.9,
+          "inkWidthMm": 43.458,
+          "inkHeightMm": 13.658,
+          "minStrokeMm": 1.0535891039679537,
+          "minGapMm": 0.7023927359786357,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "曦馨罐",
+          "size": "large",
+          "emMm": 20.8,
+          "inkWidthMm": 60.667,
+          "inkHeightMm": 19.067,
+          "minStrokeMm": 1.470782104868016,
+          "minGapMm": 0.9805214032453439,
+          "lines": [
+            "曦馨罐"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "戴薛",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 22.042,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 0.95833333333333,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "戴薛",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 25.3,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662409,
+          "minGapMm": 1.0999999999999963,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "戴薛",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 35.458,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951103,
+          "minGapMm": 1.5416666666666614,
+          "lines": [
+            "戴薛"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 33.542,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.8131727983645284,
+          "minGapMm": 0.9583333333333321,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 38.5,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999979,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "[private Latin calibration ID]",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 53.958,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951108,
+          "minGapMm": 1.5416666666666643,
+          "lines": [
+            "[private Latin calibration ID]"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "skyline_dev2026",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 81.458,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.8131727983645284,
+          "minGapMm": 0.9583333333333286,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "skyline_dev2026",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 93.5,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999943,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "skyline_dev2026",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 131.042,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951108,
+          "minGapMm": 1.5416666666666643,
+          "lines": [
+            "skyline_dev2026"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "build-agent_123",
+          "size": "small",
+          "emMm": 11.5,
+          "inkWidthMm": 80.5,
+          "inkHeightMm": 10.542,
+          "minStrokeMm": 0.8131727983645284,
+          "minGapMm": 0.9583333333333286,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "build-agent_123",
+          "size": "medium",
+          "emMm": 13.2,
+          "inkWidthMm": 92.4,
+          "inkHeightMm": 12.1,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999943,
+          "lines": [
+            "build-agent_123"
+          ]
+        },
+        {
+          "variant": "VibeSkylineGrid-Regular.ttf",
+          "name": "build-agent_123",
+          "size": "large",
+          "emMm": 18.5,
+          "inkWidthMm": 129.5,
+          "inkHeightMm": 16.958,
+          "minStrokeMm": 1.3081475451951108,
+          "minGapMm": 1.5416666666666572,
+          "lines": [
+            "build-agent_123"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviewedAt": "2026-11-20",
+  "licenseEvidence": "Official source URLs and font-version/hash records below; OFL source links and embedded-license exceptions are recorded in docs/FONTS.md. Only selected Grid asset is new runtime software; research conversions are not shipped.",
+  "identityRedaction": "Historical owner calibration specimen labels are redacted; numeric results and source URLs are unchanged. These are not current default-recipe results."
+}

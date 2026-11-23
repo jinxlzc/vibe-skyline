@@ -1,0 +1,12 @@
+import { createServer } from 'node:http';
+import { createRelay } from './handler';
+import { relayEnvironment } from './config';
+const options = relayEnvironment(process.env, ['http://127.0.0.1:5173', 'http://127.0.0.1:4173']);
+const port = Number(process.env.RELAY_PORT ?? 8787);
+if (!Number.isInteger(port) || port < 1 || port > 65535) throw Error('Invalid relay port');
+const server = createServer(createRelay(options));
+server.requestTimeout = 15000;
+server.headersTimeout = 10000;
+server.maxHeadersCount = 32;
+server.listen(port, process.env.RELAY_HOST ?? '127.0.0.1', () => console.log('Calendar relay listening; request logging disabled.'));
+for (const signal of ['SIGINT', 'SIGTERM']) process.on(signal, () => server.close());

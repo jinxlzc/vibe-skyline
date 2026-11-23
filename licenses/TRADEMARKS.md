@@ -1,0 +1,74 @@
+# Bundled official marks and trademark notice — 2026-11-22
+
+GitHub official Invertocat and Gitee's official white mark are the **public app defaults** for their sources in the 12.5 mm first-edition seat, preview, STL and Core 3MF. Other sources retain an empty reserved plate. The owner was informed of the brand-policy risk and explicitly accepted bundling official marks as public defaults. **No written redistribution or printable-derivative grant is claimed.** The manifest uses `owner-accepted-risk`, with the prior `restricted` / `unclear` conclusions intact, never `approved` / `can-redistribute`. The marks are not covered by the project's MIT license.
+
+GitHub®, Invertocat, and Octocat® are trademarks of GitHub, Inc. VibeSkyline is independent and **not affiliated with, endorsed by, or sponsored by GitHub**. Gitee and its mark belong to Shenzhen AOSI Network Technology Co., Ltd., identified on its [official about page](https://gitee.com/about_us); VibeSkyline is independent and not affiliated with, endorsed by, or sponsored by that owner either.
+
+GitHub's [Brand Toolkit](https://brand.github.com/foundations/logo), [Logo Policy](https://docs.github.com/en/site-policy/other-site-policies/github-logo-policy) and [Octodex FAQ](https://octodex.github.com/faq/) describe limited linking/integration uses and restrictions on products/merchandise without written permission. The Gitee download page supplies artwork; its [terms](https://gitee.com/terms) reserve protected content rights. Download availability is not a printable-distribution grant. The files are bundled because the owner accepted that residual risk after being informed, not because a grant was obtained.
+
+## Exact vendored files
+
+Retrieved **2026-11-22 UTC** in this environment (the supplied reviewer note was dated November 23). Files are unmodified downloads, not redraws. No private reference file supplied the committed bytes.
+
+| Source | Repo file | Exact official download | SHA256 |
+| --- | --- | --- | --- |
+| GitHub / Primer Octicons | `packages/logos/assets/github-invertocat.svg` (873 bytes) | https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-24.svg | `bce494189797623c34e39a41c2c38a132bdca23ce4e6ac06b70116ed7e91ce26` |
+| Gitee / official about-page logo archive | `packages/logos/assets/gitee-white.svg` (1828 bytes), archive member `gitee-logos.20230427/logo_gitee_g_white@1x.svg` | https://gitee.com/gitee_logos_2023.zip | `4f371ebd90f0213822625869d3c0285e2b1d56eace18f2001a915b397ebbcb8a` |
+
+`node scripts/bundle-logo-assets.mjs` reproduces the exact browser-safe string module. Tests verify its bytes and SHA256 against both originals. Compilation accepts only pinned bundled bytes and passes them through the existing bounded parser. There is no runtime logo download, remote href or script. The Gitee file's explicit `px` intrinsic dimensions are accepted as SVG pixel units; other units and active constructs remain rejected. Material colors are user choices; source SVG paint is not a filament assignment.
+
+## Kill switches
+
+- **Current source:** Shape → **Use empty plate for this source** (one click), or Logo mode → **Neutral · empty plate**. **None · no seat artwork** removes the artwork entirely. Mode is remembered independently per source for the current session.
+- **All sources:** Shape → **Disable official marks for all sources** (one click). This immediately rebuilds preview/exports without bundled official marks. **Enable official marks for all sources** reverses it, respecting per-source modes.
+- **Operator:** build with `VITE_OFFICIAL_LOGOS=off pnpm build` to disable every bundled mark, or `VITE_DISABLED_OFFICIAL_LOGO_SOURCES=github,gitee pnpm build` for selected source IDs. The normal build defaults to official marks **on**. These are Vite build-time controls: rebuild and serve the new output; restart a dev server after changing its environment. The global UI button cannot override an operator disable. This controls selection in newly generated models, not bytes already downloaded or the bundled asset's presence in the JS distribution.
+- **BYO:** acknowledge rights and select a local SVG in Shape. It overrides only the current source in Brand mode and remains usable when official marks are disabled globally or by the operator. Neutral/None suppress BYO too. **Remove local SVG** returns to the permitted source default. SVGs and UI switches are session-local; operator settings persist in the build.
+
+At 12.5 mm, GitHub measures **~0.957 mm stroke / ~0.538 mm gap**, with one isolated exterior artifact below 0.001 mm reported by existing normalization; the gap is below the 0.60 mm target. Gitee measures **~1.354 mm stroke / ~1.348 mm gap**, with no discarded fragments. Both remain **not print-qualified**. No outline is enlarged or repaired to claim qualification. `features.json` includes actual measurements, `qualified: false` and official provenance. BYO has no official provenance. No slicer or physical-print evidence is claimed.
+
+## Sources still on placeholders
+
+This was a bounded acquisition/compatibility pass, not a claim that official files do not exist. Every source below remains an empty plate in Brand mode. Their prior terms research is retained below.
+
+| Sources | Why not bundled in this change |
+| --- | --- |
+| GitLab | Official [press kit](https://about.gitlab.com/press/press-kit/) links `https://about.gitlab.com/images/press/gitlab-logo-600-rgb.svg`; fetched file uses `defs/style` and CSS classes outside the safe parser profile. No stylesheet expansion or substitute redraw was added. Calendar support remains beta. |
+| Codex / OpenAI | [Brand guidelines](https://openai.com/brand/) expose general OpenAI branding and partnership templates; no dedicated Codex file was established in this pass. No general company mark silently substituted for Codex. |
+| Claude / Anthropic | `https://www.anthropic.com/brand` returned 404 during this pass; no compatible official file established. |
+| Gemini / Google | [Product resources](https://about.google/brand-resource-center/products-and-services/) did not establish a direct Gemini vector download in this pass. |
+| Antigravity, Cursor | Prior press/brand-page research exists below, but no compatible official file was fetched and verified in this GitHub-first pass. |
+| Copilot | Current GitHub toolkit deprecates its standalone icon; no replacement product lockup verified for this seat. |
+| DeepSeek, Kimi | Prior brand resources exist below; no compatible official file fetched and verified in this pass. |
+| Qwen, Doubao, GLM, MiniMax, TRAE, CodeBuddy, Lingma | No mark-specific official vector was obtained and validated in this pass; prior terms/product links alone do not supply a verified asset. |
+
+A local SVG import confers no trademark rights.
+
+# Milestone 2 research — 2026-11-20
+
+## Official marks
+
+Scope covers redistributing the official vector in a public MIT-licensed repository and distributing recolored or embossed geometry in printable files. **15 restricted, 3 unclear, 0 can-redistribute.** No official source reviewed grants both uses. Restricted covers an express limit relevant to the proposed use. Unclear covers insufficient evidence for the specific mark. These are terms conclusions, separate from the owner-accepted bundling decision above.
+
+| Manifest brand | Conclusion | Evidence and official sources |
+| --- | --- | --- |
+| github | restricted | Logo policy permits linking, social buttons, identifying integrations, and coverage in blogs/news under its conditions. It forbids modifying logos, including color, and calls for written permission outside approved uses. [GitHub logo policy](https://docs.github.com/en/site-policy/other-site-policies/github-logo-policy), [Brand Toolkit usage and legal](https://brand.github.com/foundations/logo#legal) |
+| gitee | unclear | Website terms §§1–2 give a limited license to browse/use on a computer and include logos and trademarks among protected site content. Further use depends on the asset’s accompanying terms. No mark-specific grant found. [Gitee website terms](https://gitee.com/terms) |
+| gitlab | restricted | Trademark Guidelines §§2.1.3 and 2.1.6 prohibit altering marks and use on tangible goods. §3.1 permits keeping included logos only when redistributing unmodified GitLab Community Edition, subject to §2. [GitLab Trademark Guidelines](https://handbook.gitlab.com/handbook/marketing/brand-experience/trademark-guidelines/) |
+| codex | restricted | OpenAI limits logo use to supplied artwork, excludes tangible merchandise and modifications, and makes its permission non-transferable. No separate Codex asset grant found. [OpenAI Design Guidelines, How to use our Logos and Usage terms](https://openai.com/brand/) |
+| claude | restricted | Anthropic's Trademark Guidelines require specific permission and prior approval of materials, and prohibit color, font, proportion and other alterations. [Anthropic Legal Center](https://www.anthropic.com/legal), [Trademark Guidelines](https://assets.claude.com/f7874b435aabdaee5f836e888b4439b9b56a934b.pdf) |
+| gemini | restricted | Google Brand Resource Center limits use of product icons and excludes brand elements on merchandise. An approved brand-use license is non-transferable and limited to the materials and purpose in the permission request. No Gemini carveout found. [Google guidance](https://about.google/brand-resource-center/guidance/), [Google brand terms](https://about.google/intl/en/brand-resource-center/brand-terms/), [Product resources](https://about.google/brand-resource-center/products-and-services/) |
+| antigravity | restricted | Official page offers downloadable press artwork and approved one-color versions. Google’s general merchandise restriction and approved-purpose/materials limits still apply absent a specific exception. The press page gives no printable-derivative or repository redistribution grant. [Antigravity Press Assets](https://antigravity.google/press), [Google guidance](https://about.google/brand-resource-center/guidance/), [Google brand terms](https://about.google/intl/en/brand-resource-center/brand-terms/) |
+| cursor | unclear | Cursor’s brand page supplies logo variants and downloads without an express grant for redistribution or fabrication. Service Terms §5.1 reserve service IP and disclaim implied licenses. No separate asset license found. [Cursor Brand Guidelines](https://cursor.com/en-US/brand), [Cursor Terms of Service](https://cursor.com/terms-of-service) |
+| copilot | restricted | Treat this entry as GitHub Copilot. Its toolkit describes current GitHub product lockups, deprecates the standalone logo and retires the mascot head. GitHub’s general logo rules prohibit color/design modifications and reserve other uses for written permission. [GitHub Copilot Brand Toolkit](https://brand.github.com/brand-identity/copilot), [GitHub logo rules](https://brand.github.com/foundations/logo) |
+| deepseek | restricted | Guidelines disclaim trademark, copyright and other IP grants. They limit asset use to necessary descriptive/nominative uses when actually integrating models/API or using the unmodified open-source frontend. Alterations need authorization. [DeepSeek Brand Asset Usage Guidelines](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/_logo%20svg/guidelines.md) |
+| kimi | restricted | Moonshot permits media reporting, news promotion and noncommercial display only and expressly prohibits recoloring, distortion and structural modifications. [Kimi Brand Book](https://www.kimi.com/en/resources/kimi-brand), [Kimi logo terms](https://www.kimi.com/zh-cn/policies/logo-usage-terms) |
+| qwen | restricted | Qwen Intelligence §7.2 requires written permission for marks, expressly including combinations and derivative forms. Tongyi Qianwen model license §6(b) excludes trademark rights except required notices and customary reference when redistributing licensed model materials. The Qwen consumer terms page did not expose readable text. [Qwen Intelligence service agreement](https://terms.alicdn.com/legal-agreement/terms/b_end_product_protocol/20260914172638954/20260914172638954.html), [Tongyi Qianwen model license](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT), [Qwen consumer terms](https://qwen.ai/termsservice) |
+| doubao | restricted | Terms §§9.4–9.5 reserve content rights, require consent for adaptation, copying or distribution, and require prior written consent for display or use of Doubao marks and logos. [Doubao user terms](https://www.doubao.com/legal/terms) |
+| glm | restricted | Z.ai terms' Intellectual Property §2 requires prior written consent to use, copy, publish or display Z.ai/affiliate marks and logos. GLM-5’s Apache 2.0 §6 excludes trademark permission beyond customary origin references and NOTICE reproduction. [Z.ai service terms](https://chat.z.ai/legal-agreement/terms-of-service), [GLM-5 license](https://github.com/zai-org/GLM-5/blob/main/LICENSE#L783) |
+| minimax | restricted | Terms explicitly require prior written permission for company and product logos. Their service-content grant is personal/noncommercial and excludes general duplication, distribution and derivative works. [MiniMax App and Web Terms of Service](https://chat.minimax.io/doc/terms-of-service.html) |
+| trae | unclear | The cited China terms address infringement in §11 but provide no logo grant. International terms loaded without readable text. No mark-specific license identified. [TRAE China terms](https://docs.trae.cn/ide_terms-of-service), [TRAE international terms](https://www.trae.ai/terms-of-service) |
+| codebuddy | restricted | Enterprise §9.3 expressly includes CodeBuddy in Tencent Logos and requires prior written consent to display, use or dispose of them. Consumer §9.3 likewise requires written consent for Tencent’s distinctive brands. [CodeBuddy enterprise agreement](https://www.codebuddy.ai/document/enterprise-agreement), [CodeBuddy service agreement](https://www.codebuddy.ai/document/term) |
+| lingma | restricted | The Lingma product site identifies the successor as Qoder CN. Its current linked agreement §5(a) includes service trademarks and marks among protected rights and requires separate written consent for rights outside the agreement. No legacy Lingma asset grant identified. [Lingma product site](https://lingma.aliyun.com/), [Alibaba Cloud agreements index](https://help.aliyun.com/zh/lingma/support/service-agreement-and-privacy-policy), [Qoder CN agreement](https://terms.alicdn.com/legal-agreement/terms/c_platform_service_agreement/20231023213402278/20231023213402278.html) |
+
+
+All conclusions concern this project scope, not every possible personal use. No permission requests were sent. At that historical review date no official asset was vendored. The current inventory and owner decision are above.

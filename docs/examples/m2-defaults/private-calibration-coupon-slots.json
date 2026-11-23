@@ -1,0 +1,61 @@
+{
+  "schema": "vibeskyline.slots.v1",
+  "audience": "private calibration — contains owner identity",
+  "qualification": "slot intent only — Bambu Studio mapping not slicer-verified",
+  "printer": "Bambu Lab A1 / AMS lite",
+  "assignments": [
+    {
+      "objectId": 2,
+      "objectName": "Material 1 #DAD4C6",
+      "slot": 1,
+      "roles": [
+        "base"
+      ],
+      "color": "#DAD4C6",
+      "volumeCm3": 37.728000562191006,
+      "grams": 46.78272069711685
+    },
+    {
+      "objectId": 3,
+      "objectName": "Material 2 #25354A",
+      "slot": 2,
+      "roles": [
+        "text",
+        "logo",
+        "calibration"
+      ],
+      "color": "#25354A",
+      "volumeCm3": 1.0856929945423042,
+      "grams": 1.3462593132324572
+    }
+  ],
+  "slots": [
+    {
+      "slot": 1,
+      "spoolId": "a1-spool-1",
+      "grams": 46.78272069711685,
+      "volumeCm3": 37.728000562191006
+    },
+    {
+      "slot": 2,
+      "spoolId": "a1-spool-2",
+      "grams": 1.3462593132324572,
+      "volumeCm3": 1.0856929945423042
+    },
+    {
+      "slot": 3,
+      "spoolId": "a1-spool-3",
+      "grams": 0,
+      "volumeCm3": 0
+    },
+    {
+      "slot": 4,
+      "spoolId": "a1-spool-4",
+      "grams": 0,
+      "volumeCm3": 0
+    }
+  ],
+  "purge": "unknown until sliced",
+  "printTime": "unknown until sliced",
+  "profilesModified": false
+}

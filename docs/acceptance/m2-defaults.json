@@ -1,0 +1,216 @@
+{
+  "branch": "feat/m2-public-defaults",
+  "base": "bb3245d7345c2f0ccfae9d1c895193186ed330f5",
+  "startedAt": "2026-11-20T12:38:40.787402+00:00",
+  "node": "v22.22.2",
+  "scope": "Synthetic fixtures; permitted public GitHub/Gitee live smoke, responses not retained",
+  "commands": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 0.51
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 11.1
+    },
+    {
+      "command": "pnpm -r lint",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 3.34
+    },
+    {
+      "command": "pnpm -r test",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 22.83,
+      "testsPassed": 168,
+      "filesPassed": 18
+    },
+    {
+      "command": "pnpm -r build",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 13.28
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 3.26
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 1.32
+    },
+    {
+      "command": "pnpm test:e2e",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 80.27,
+      "testsPassed": 15
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "result": "PASS",
+      "exitCode": 0,
+      "durationSeconds": 4.1,
+      "checksPassed": 4,
+      "checksFailed": 0,
+      "retryReason": "Gitee dev proxy returned HTTP_502 on previous attempt"
+    }
+  ],
+  "priorAttempts": [
+    [
+      {
+        "command": "pnpm install --frozen-lockfile",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 0.51
+      },
+      {
+        "command": "pnpm -r typecheck",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 11.38
+      },
+      {
+        "command": "pnpm -r lint",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 3.43
+      },
+      {
+        "command": "pnpm -r test",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 23.21,
+        "testsPassed": 159,
+        "filesPassed": 18
+      },
+      {
+        "command": "pnpm -r build",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 13.28
+      },
+      {
+        "command": "pnpm exec tsc --noEmit",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 3.69
+      },
+      {
+        "command": "pnpm exec eslint .",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 1.43
+      },
+      {
+        "command": "pnpm test:e2e",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 79.88,
+        "testsPassed": 14
+      },
+      {
+        "command": "LIVE=1 pnpm test:live",
+        "result": "PASS",
+        "exitCode": 0,
+        "durationSeconds": 6.15,
+        "checksPassed": 4,
+        "checksFailed": 0
+      }
+    ]
+  ],
+  "result": "PASS",
+  "finishedAt": "2026-11-20T12:41:48.345309+00:00",
+  "livePriorAttempts": [
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "result": "FAIL",
+      "exitCode": 1,
+      "durationSeconds": 5.17,
+      "checksPassed": 3,
+      "checksFailed": 1,
+      "failure": "dev proxy gitee: HTTP_502; no response retained"
+    }
+  ],
+  "testedCodeCommit": "fd2405ad5999092e0939df9622224d1a8a948316",
+  "priorAttemptsCodeCommits": [
+    "93301cb856155e1e2bd979ab11c6248ffa50fa9f"
+  ],
+  "pnpm": "10.22.0",
+  "liveChecks": [
+    {
+      "route": "CLI github",
+      "result": "PASS"
+    },
+    {
+      "route": "dev proxy github",
+      "result": "PASS"
+    },
+    {
+      "route": "CLI gitee",
+      "result": "PASS"
+    },
+    {
+      "route": "dev proxy gitee",
+      "result": "PASS"
+    }
+  ],
+  "artifacts": {
+    "directory": "docs/examples/m2-defaults",
+    "actualBrowserDownloads": 9,
+    "independentPersistedByteValidation": "PASS",
+    "sha256Integrity": "PASS",
+    "slicerVerified": false,
+    "physicallyPrinted": false
+  },
+  "screenshots": {
+    "directory": "docs/screenshots/m2-defaults",
+    "count": 16,
+    "visualReview": [
+      "default-studio",
+      "zh-cn",
+      "mobile",
+      "print-ams",
+      "over-capacity",
+      "name-from-github"
+    ]
+  },
+  "letteringMatrix": {
+    "cases": 126,
+    "validGeometry": 114,
+    "explicitRejections": 12,
+    "neutralCjkAndLatinSpecimens": true
+  },
+  "review": {
+    "identityBackend": "PASS",
+    "defaultSlots": "PASS after effective-color fix",
+    "browserEvidence": "PASS after screenshot readiness fix",
+    "wholeBranch": "PASS after one consolidated fix wave and scoped re-review"
+  },
+  "developmentChecks": [
+    "Initial browser-authoring assertions for decorative accessible names and disconnected material meshes corrected before acceptance.",
+    "Slot regression tests reproduced 13 failures before the first effective-color fix.",
+    "Final review regression baseline reproduced 8 failures (named source overrides, physical slots, ordinary public handles); fixes passed 168 unit tests.",
+    "New UI-to-3MF source-color regression failed on handoff build and passed on rebuilt app; final full browser suite includes it.",
+    "Premature GitHub screenshot fixed and visually rechecked after browser regeneration."
+  ],
+  "warnings": [
+    "Existing Vite large deferred chunk and manifold browser-externalization warnings.",
+    "Playwright environment warning: FORCE_COLOR overrides NO_COLOR."
+  ],
+  "notes": [
+    "Final live check passed on one retry; first attempt returned HTTP_502 for Gitee dev proxy, retained in livePriorAttempts.",
+    "No fetched response, personal activity or raw usage log retained.",
+    "Not sliced or physically printed; official logo default requirement remains unmet."
+  ]
+}

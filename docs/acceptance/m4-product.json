@@ -1,0 +1,197 @@
+{
+  "milestone": "M4 product redesign",
+  "recordedAt": "2026-11-22T16:27:49.613918+00:00",
+  "branch": "feat/m4-product-redesign",
+  "baseSha": "38afe219bd617d2e94f807edfbe59cc8b60c1295",
+  "testedImplementationSha": "56acb87df6c35565f73c22ccdd74c152c2039572",
+  "evidenceCommit": "This file and the artifacts are committed immediately after the implementation SHA; no source changes in the evidence commit.",
+  "initialWorktreeClean": true,
+  "m3HistoryUnchanged": true,
+  "commands": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "exitCode": 0,
+      "seconds": 0.6,
+      "logSha256": "8ce4e61140f7fdfd7a9f40dfe0b98736fd5e45e346e856f2260df952f58990c2",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "exitCode": 0,
+      "seconds": 11.0,
+      "logSha256": "573e1258281b5108447320acb81b5464303f3bbbb2a07743009dbef2241ec2e5",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm -r lint",
+      "exitCode": 0,
+      "seconds": 3.4,
+      "logSha256": "317a1bec2dcb69fa8dda1e2f0afa93f567dccfe9b68a03e8e82f056da5db7125",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm -r test",
+      "exitCode": 0,
+      "seconds": 23.1,
+      "logSha256": "c35baa600473ebe6407ad0b9b9084bf010889ecfdb7b562a4694f7ce4d544899",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm -r build",
+      "exitCode": 0,
+      "seconds": 14.5,
+      "logSha256": "d1591279c75160000cc8b423fae3ca27e6201c7abea3b6497ac80dfc8b3e69d1",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "exitCode": 0,
+      "seconds": 3.4,
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "exitCode": 0,
+      "seconds": 1.4,
+      "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm test",
+      "exitCode": 0,
+      "seconds": 21.3,
+      "logSha256": "3e9d9f6c7f260ead5e19d4ceecac562648a5892d7915962250573634b5d867e8",
+      "status": "passed"
+    },
+    {
+      "command": "pnpm test:e2e",
+      "exitCode": 0,
+      "seconds": 98.9,
+      "logSha256": "f4429ac67fb719386a3d7f753da482c3c7300a89d8f0e3bc30a694cc818199e6",
+      "status": "passed"
+    }
+  ],
+  "tests": {
+    "rootUnit": 194,
+    "rootUnitFiles": 21,
+    "protocol": 18,
+    "browser": 20,
+    "browserSkipped": 0
+  },
+  "protocol": {
+    "version": "vibeskyline.activity.v2",
+    "paths": [
+      "/protocol/v2/spec.md",
+      "/protocol/v2/activity.schema.json",
+      "/protocol/v2/synthetic.bundle.json",
+      "/protocol/v2/offline-pack.zip"
+    ],
+    "productionOrigin": null,
+    "maxBytes": 2097152,
+    "maxRecords": 2196,
+    "fixtureKind": "synthetic only"
+  },
+  "screenshots": [
+    {
+      "path": "docs/screenshots/m4-product/advanced-import-offline-prompt.png",
+      "sha256": "07767b734372eda5dc49b79425ab5a8c9938185185b5345a3b76cd6913afb35a"
+    },
+    {
+      "path": "docs/screenshots/m4-product/customize-materials-zh.png",
+      "sha256": "b66d6d3a8bd74a6a60361eebb332b61531eb37b0facbe756630cd78d1811e17e"
+    },
+    {
+      "path": "docs/screenshots/m4-product/export-five-materials-zh.png",
+      "sha256": "ecab465e94db1296e1dcecaaa1629b54a7226541a8c6a464e81902cd44265aa5"
+    },
+    {
+      "path": "docs/screenshots/m4-product/gitee-model-mocked.png",
+      "sha256": "43ae25fb073982f3a4973727b2b8e2b34bf33d289073863b7b67ebbf3858a6a1"
+    },
+    {
+      "path": "docs/screenshots/m4-product/gitee-username-mocked.png",
+      "sha256": "a6db8405d78d042aed3b29dcef15bf5df9407906e8a5f9c4c3c9e3e7df0b3483"
+    },
+    {
+      "path": "docs/screenshots/m4-product/github-model-mocked.png",
+      "sha256": "68f7fa2b04108c2621b9b44c4c72ba75bc57b953326069067e5c9d77b30bb6a8"
+    },
+    {
+      "path": "docs/screenshots/m4-product/github-username-mocked.png",
+      "sha256": "9e83155f91e4cae96dd84c269fe365d16e287a4607b79b4dedebb7fbfdec3e31"
+    },
+    {
+      "path": "docs/screenshots/m4-product/landing-en.png",
+      "sha256": "28b1b80aa699ff4e300599c98b6a05c536442afa08e7c402aae329956494610b"
+    },
+    {
+      "path": "docs/screenshots/m4-product/landing-mobile-zh.png",
+      "sha256": "1dc45161f83aa33b00590e320eb1a4aed670dcc1bda9cc336cc219848f7f63e4"
+    },
+    {
+      "path": "docs/screenshots/m4-product/landing-zh.png",
+      "sha256": "6d58dd1b74b028a00dba10958e11d851587f72a85c5b5905ec22a831223e3eeb"
+    },
+    {
+      "path": "docs/screenshots/m4-product/privacy-mobile-zh.png",
+      "sha256": "71f368a35893511f0b67cf6a761b7c166bc1b7d7a09e2874beb11587042f020c"
+    },
+    {
+      "path": "docs/screenshots/m4-product/studio-mobile-zh.png",
+      "sha256": "6eac4259be4b604b095e10a7fd4731ee05c7eefa7b25d430301f19126b8c8942"
+    },
+    {
+      "path": "docs/screenshots/m4-product/synthetic-demo-studio-zh.png",
+      "sha256": "94d9a49e85d48d02e5d08f094c6c14c7d91db7c11d4edbd8d11477ba30afc7a9"
+    },
+    {
+      "path": "docs/screenshots/m4-product/synthetic-import-export-ready.png",
+      "sha256": "09245d59a8fdc1fb979f5b8ef5b53dc1ad4e1d49e636f89cd471350f73e37f3d"
+    }
+  ],
+  "examplesSummary": "docs/examples/m4-product/summary.json",
+  "checks": {
+    "fiveMaterialBrowser3MFReopened": true,
+    "importToSTLAnd3MFRoundTrip": true,
+    "noArbitraryBundleFetch": true,
+    "unknownIsNotZero": true,
+    "inclusiveTokenAccounting": true,
+    "oldRecipeMigration": true,
+    "preserveV1Timezone": true,
+    "sourceUsernameDefault": true,
+    "defaultFont": "VibeSkyline Grid",
+    "keyboardAndLabelsSmoke": true,
+    "controlledTextContrast": ">= 4.5:1",
+    "viewportOverflow": false,
+    "minimumStudioPanelWidthPx": 300,
+    "visualInspection": [
+      "landing-en",
+      "landing-mobile-zh",
+      "customize-materials-zh",
+      "studio-mobile-zh",
+      "export-five-materials-zh"
+    ]
+  },
+  "limitations": [
+    "No deployment or production URL; loopback/LAN prompt includes offline fallback.",
+    "M4 calendar UI tests use labeled synthetic mocks; retained M3 qualification is not new live evidence.",
+    "AI producers and full retained history unverified; synthetic fixtures only.",
+    "Known integer metrics only; unsupported metrics, estimated records and free-form legacy reconciliation rejected.",
+    "Accessibility smoke only; no full assistive-technology audit.",
+    "Vite reports chunks over 500 kB; mobile performance not benchmarked.",
+    "Slicer mapping and physical printing unqualified; geometry checks do not prove physical printability.",
+    "No persistent recipe store in M3; migration helper is for legacy recipe consumers.",
+    "Real logos ON by default: NOT satisfied. Not sliced or physically printed."
+  ],
+  "operations": {
+    "merged": false,
+    "pullRequestOpened": false,
+    "deployed": false,
+    "published": false,
+    "visibilityChanged": false,
+    "ownerMachineAccessed": false,
+    "printerOrSlicerConnected": false,
+    "realPersonalLogsRead": false
+  }
+}

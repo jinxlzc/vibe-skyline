@@ -1,0 +1,101 @@
+{
+  "label": "M1 SYNTHETIC-DEMO acceptance cycle",
+  "checkedAt": "2026-11-20T08:16:00.273081+00:00",
+  "baseCommit": "34e393e20df83117da181d3fd59715365d828dc6",
+  "node": "v22.22.2",
+  "results": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 0.5
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 8.0
+    },
+    {
+      "command": "pnpm -r lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 2.51
+    },
+    {
+      "command": "pnpm -r test",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 67.4,
+      "testsPassed": 28,
+      "suitesPassed": 10
+    },
+    {
+      "command": "pnpm -r build",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 10.91
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 2.84
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 1.01
+    },
+    {
+      "command": "pnpm test:e2e",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 31.16,
+      "testsPassed": 4
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 4.23,
+      "checks": [
+        "CLI github: PASS",
+        "dev proxy github: PASS",
+        "CLI gitee: PASS",
+        "dev proxy gitee: PASS"
+      ]
+    }
+  ],
+  "liveResponsesRetained": false,
+  "printerOrSlicerConnection": false,
+  "followUpReason": "Final visual audit: two Chinese budget guidance strings; rerun root checks and affected web build/browser acceptance.",
+  "followUpResults": [
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 2.64
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 0.98
+    },
+    {
+      "command": "pnpm --filter @vibeskyline/web build",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 5.07
+    },
+    {
+      "command": "pnpm test:e2e",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 31.62,
+      "testsPassed": 4
+    }
+  ]
+}

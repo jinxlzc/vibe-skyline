@@ -1,0 +1,102 @@
+{
+  "docs/examples/m1/synthetic-demo.stl": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 2182084,
+    "sha256": "c0ce8bb939c20933eaf3556ea5bd26fbcec57b1d535683c356c344a3d9114ca4",
+    "dimensionsMm": [
+      171.8000030517578,
+      111,
+      21.200000762939453
+    ],
+    "materialCount": 1,
+    "volumeCm3": 114.3318951223718,
+    "massGrams": 141.77154995174104,
+    "topology": {
+      "valid": true,
+      "errors": [],
+      "bounds": [
+        171.8000030517578,
+        111,
+        21.200000762939453
+      ],
+      "volume": 114331.8951223718,
+      "components": 1
+    },
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 68
+    }
+  },
+  "docs/examples/m1/synthetic-demo.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 495051,
+    "sha256": "5a4c39c337a1f75329f92bbb03bc40369d2345488a10c49ab336581c38906579",
+    "dimensionsMm": [
+      171.8000030517578,
+      111,
+      21.200000762939453
+    ],
+    "materialCount": 4,
+    "volumeCm3": 114.33189512237168,
+    "massGrams": 141.77154995174087,
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 68
+    }
+  },
+  "docs/examples/m1/synthetic-demo-two-tone.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 487005,
+    "sha256": "fcfbaae20aaa70a494417bca7c95be81ebf01bf91efab6b511e43c8d0734e1e7",
+    "dimensionsMm": [
+      171.8000030517578,
+      111,
+      21.200000762939453
+    ],
+    "materialCount": 2,
+    "volumeCm3": 114.33189512237162,
+    "massGrams": 141.7715499517408,
+    "zBoundsMm": [
+      [
+        0,
+        3.200000047683716
+      ],
+      [
+        3.200000047683716,
+        21.200000762939453
+      ]
+    ],
+    "boundaryMm": 3.2,
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 68
+    }
+  },
+  "docs/examples/m1/materials.json": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 816,
+    "sha256": "570c4d95e68ac62d3995366e470f045cad66a08cd5c9de0e1c8f04070460c862",
+    "kind": "companion JSON"
+  },
+  "docs/examples/m1/materials-two-tone.json": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 557,
+    "sha256": "d8d4ec866d3e3aac598e3dfda50911e99405d4797c9d05bab504726e61f5b0bf",
+    "kind": "companion JSON"
+  },
+  "docs/examples/m1/recipe-source.json": {
+    "label": "SYNTHETIC-DEMO",
+    "bytes": 1340,
+    "sha256": "102297ec1ebc81beb7d8e85ef7a4d35851efca8cd60728ee47962f4dfc6f5450",
+    "kind": "companion JSON"
+  }
+}

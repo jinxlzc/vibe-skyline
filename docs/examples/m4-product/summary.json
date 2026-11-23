@@ -1,0 +1,30 @@
+{
+  "synthetic-activity.3mf": {
+    "sha256": "0c693804785782d03502abe3ed8cef23ad131ee074aba97919865a5456867f25",
+    "bytes": 106661,
+    "synthetic": true,
+    "validation": "browser download reopened: mesh / spatial / Core 3MF",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "synthetic-activity.stl": {
+    "sha256": "ce558ad83d55a9daf715ddc7ed10373a852f69138f619a074a28b75e9d46d0f3",
+    "bytes": 617884,
+    "synthetic": true,
+    "validation": "browser download reopened: mesh / spatial / Core 3MF",
+    "sliced": false,
+    "physicallyPrinted": false
+  },
+  "activity.schema.json": {
+    "sha256": "5589659e3ce24f8b85860c5f97a0afee12792ab898287e8d49b1b2919a986568",
+    "bytes": 8789
+  },
+  "synthetic.bundle.json": {
+    "sha256": "d864a7e05c0112120317761fd9966d58a74066f85fd42f8293c525eaa8a82c90",
+    "bytes": 2619
+  },
+  "offline-pack.zip": {
+    "sha256": "dae8864351ac55e00f59393cd6a7575f72eb529014eec03cea74b02e4c082ac6",
+    "bytes": 5838
+  }
+}

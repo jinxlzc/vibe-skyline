@@ -1,0 +1,369 @@
+[
+  {
+    "brand": "github",
+    "sourceUrl": "https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-24.svg",
+    "revision": "retrieved 2026-11-22 UTC",
+    "licenseStatus": "owner-accepted-risk",
+    "license": null,
+    "sha256": "bce494189797623c34e39a41c2c38a132bdca23ce4e6ac06b70116ed7e91ce26",
+    "placeholder": "Official Invertocat bundled with notice; neutral mode uses an empty plate",
+    "review": {
+      "reviewedAt": "2026-11-22",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://docs.github.com/en/site-policy/other-site-policies/github-logo-policy",
+        "https://brand.github.com/foundations/logo#legal",
+        "https://brand.github.com/foundations/logo",
+        "https://octodex.github.com/faq/"
+      ],
+      "reason": "Limited linking/integration uses are described; product/merchandise uses require written permission. No written redistribution or printable-derivative grant is claimed. Bundled because the owner accepted the residual brand-policy risk after being informed.",
+      "vendored": true
+    },
+    "assetPath": "assets/github-invertocat.svg",
+    "retrievedAt": "2026-11-22",
+    "trademarkOwner": "GitHub, Inc."
+  },
+  {
+    "brand": "gitee",
+    "sourceUrl": "https://gitee.com/gitee_logos_2023.zip",
+    "revision": "gitee-logos.20230427/logo_gitee_g_white@1x.svg",
+    "licenseStatus": "owner-accepted-risk",
+    "license": null,
+    "sha256": "4f371ebd90f0213822625869d3c0285e2b1d56eace18f2001a915b397ebbcb8a",
+    "placeholder": "Official Gitee mark bundled with notice; neutral mode uses an empty plate",
+    "review": {
+      "reviewedAt": "2026-11-22",
+      "conclusion": "unclear",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://gitee.com/terms",
+        "https://gitee.com/about_us"
+      ],
+      "reason": "Official about page supplies this logo archive; no written redistribution or printable-derivative grant is claimed. Bundled because the owner accepted residual brand-policy risk after being informed.",
+      "vendored": true
+    },
+    "assetPath": "assets/gitee-white.svg",
+    "retrievedAt": "2026-11-22",
+    "trademarkOwner": "Shenzhen AOSI Network Technology Co., Ltd."
+  },
+  {
+    "brand": "gitlab",
+    "sourceUrl": "https://handbook.gitlab.com/handbook/marketing/brand-experience/trademark-guidelines/",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://handbook.gitlab.com/handbook/marketing/brand-experience/trademark-guidelines/"
+      ],
+      "reason": "Trademark Guidelines §§2.1.3 and 2.1.6 prohibit altering marks and use on tangible goods. §3.1 permits keeping included logos only when redistributing unmodified GitLab Community Edition, subject to §2. GitLab Trademark Guidelines",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "codex",
+    "sourceUrl": "https://openai.com/brand/",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://openai.com/brand/"
+      ],
+      "reason": "OpenAI limits logo use to supplied artwork, excludes tangible merchandise and modifications, and makes its permission non-transferable. No separate Codex asset grant found. OpenAI Design Guidelines, How to use our Logos and Usage terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "claude",
+    "sourceUrl": "https://www.anthropic.com/legal",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://www.anthropic.com/legal",
+        "https://assets.claude.com/f7874b435aabdaee5f836e888b4439b9b56a934b.pdf"
+      ],
+      "reason": "Anthropic's Trademark Guidelines require specific permission and prior approval of materials, and prohibit color, font, proportion and other alterations. Anthropic Legal Center, Trademark Guidelines",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "gemini",
+    "sourceUrl": "https://about.google/brand-resource-center/guidance/",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://about.google/brand-resource-center/guidance/",
+        "https://about.google/intl/en/brand-resource-center/brand-terms/",
+        "https://about.google/brand-resource-center/products-and-services/"
+      ],
+      "reason": "Google Brand Resource Center limits use of product icons and excludes brand elements on merchandise. An approved brand-use license is non-transferable and limited to the materials and purpose in the permission request. No Gemini carveout found. Google guidance, Google brand terms, Product resources",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "antigravity",
+    "sourceUrl": "https://antigravity.google/press",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://antigravity.google/press",
+        "https://about.google/brand-resource-center/guidance/",
+        "https://about.google/intl/en/brand-resource-center/brand-terms/"
+      ],
+      "reason": "Official page offers downloadable press artwork and approved one-color versions. Google’s general merchandise restriction and approved-purpose/materials limits still apply absent a specific exception. The press page gives no printable-derivative or repository redistribution grant. Antigravity Press Assets, Google guidance, Google brand terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "cursor",
+    "sourceUrl": "https://cursor.com/en-US/brand",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "unclear",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://cursor.com/en-US/brand",
+        "https://cursor.com/terms-of-service"
+      ],
+      "reason": "Cursor’s brand page supplies logo variants and downloads without an express grant for redistribution or fabrication. Service Terms §5.1 reserve service IP and disclaim implied licenses. No separate asset license found. Cursor Brand Guidelines, Cursor Terms of Service",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "copilot",
+    "sourceUrl": "https://brand.github.com/brand-identity/copilot",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://brand.github.com/brand-identity/copilot",
+        "https://brand.github.com/foundations/logo"
+      ],
+      "reason": "Treat this entry as GitHub Copilot. Its toolkit describes current GitHub product lockups, deprecates the standalone logo and retires the mascot head. GitHub’s general logo rules prohibit color/design modifications and reserve other uses for written permission. GitHub Copilot Brand Toolkit, GitHub logo rules",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "deepseek",
+    "sourceUrl": "https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/_logo%20svg/guidelines.md",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/_logo%20svg/guidelines.md"
+      ],
+      "reason": "Guidelines disclaim trademark, copyright and other IP grants. They limit asset use to necessary descriptive/nominative uses when actually integrating models/API or using the unmodified open-source frontend. Alterations need authorization. DeepSeek Brand Asset Usage Guidelines",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "kimi",
+    "sourceUrl": "https://www.kimi.com/en/resources/kimi-brand",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://www.kimi.com/en/resources/kimi-brand",
+        "https://www.kimi.com/zh-cn/policies/logo-usage-terms"
+      ],
+      "reason": "Moonshot permits media reporting, news promotion and noncommercial display only and expressly prohibits recoloring, distortion and structural modifications. Kimi Brand Book, Kimi logo terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "qwen",
+    "sourceUrl": "https://terms.alicdn.com/legal-agreement/terms/b_end_product_protocol/20260914172638954/20260914172638954.html",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://terms.alicdn.com/legal-agreement/terms/b_end_product_protocol/20260914172638954/20260914172638954.html",
+        "https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT",
+        "https://qwen.ai/termsservice"
+      ],
+      "reason": "Qwen Intelligence §7.2 requires written permission for marks, expressly including combinations and derivative forms. Tongyi Qianwen model license §6(b) excludes trademark rights except required notices and customary reference when redistributing licensed model materials. The Qwen consumer terms page did not expose readable text. Qwen Intelligence service agreement, Tongyi Qianwen model license, Qwen consumer terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "doubao",
+    "sourceUrl": "https://www.doubao.com/legal/terms",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://www.doubao.com/legal/terms"
+      ],
+      "reason": "Terms §§9.4–9.5 reserve content rights, require consent for adaptation, copying or distribution, and require prior written consent for display or use of Doubao marks and logos. Doubao user terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "glm",
+    "sourceUrl": "https://chat.z.ai/legal-agreement/terms-of-service",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://chat.z.ai/legal-agreement/terms-of-service",
+        "https://github.com/zai-org/GLM-5/blob/main/LICENSE#L783"
+      ],
+      "reason": "Z.ai terms' Intellectual Property §2 requires prior written consent to use, copy, publish or display Z.ai/affiliate marks and logos. GLM-5’s Apache 2.0 §6 excludes trademark permission beyond customary origin references and NOTICE reproduction. Z.ai service terms, GLM-5 license",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "minimax",
+    "sourceUrl": "https://chat.minimax.io/doc/terms-of-service.html",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://chat.minimax.io/doc/terms-of-service.html"
+      ],
+      "reason": "Terms explicitly require prior written permission for company and product logos. Their service-content grant is personal/noncommercial and excludes general duplication, distribution and derivative works. MiniMax App and Web Terms of Service",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "trae",
+    "sourceUrl": "https://docs.trae.cn/ide_terms-of-service",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "unclear",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://docs.trae.cn/ide_terms-of-service",
+        "https://www.trae.ai/terms-of-service"
+      ],
+      "reason": "The cited China terms address infringement in §11 but provide no logo grant. International terms loaded without readable text. No mark-specific license identified. TRAE China terms, TRAE international terms",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "codebuddy",
+    "sourceUrl": "https://www.codebuddy.ai/document/enterprise-agreement",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://www.codebuddy.ai/document/enterprise-agreement",
+        "https://www.codebuddy.ai/document/term"
+      ],
+      "reason": "Enterprise §9.3 expressly includes CodeBuddy in Tencent Logos and requires prior written consent to display, use or dispose of them. Consumer §9.3 likewise requires written consent for Tencent’s distinctive brands. CodeBuddy enterprise agreement, CodeBuddy service agreement",
+      "vendored": false
+    }
+  },
+  {
+    "brand": "lingma",
+    "sourceUrl": "https://lingma.aliyun.com/",
+    "revision": null,
+    "licenseStatus": "rejected",
+    "license": null,
+    "sha256": null,
+    "placeholder": "Replaceable asset (official logo not included)",
+    "review": {
+      "reviewedAt": "2026-11-20",
+      "conclusion": "restricted",
+      "scope": "Public MIT repository redistribution and modified, recolored printable derivatives",
+      "officialSources": [
+        "https://lingma.aliyun.com/",
+        "https://help.aliyun.com/zh/lingma/support/service-agreement-and-privacy-policy",
+        "https://terms.alicdn.com/legal-agreement/terms/c_platform_service_agreement/20231023213402278/20231023213402278.html"
+      ],
+      "reason": "The Lingma product site identifies the successor as Qoder CN. Its current linked agreement §5(a) includes service trademarks and marks among protected rights and requires separate written consent for rights outside the agreement. No legacy Lingma asset grant identified. Lingma product site, Alibaba Cloud agreements index, Qoder CN agreement",
+      "vendored": false
+    }
+  }
+]

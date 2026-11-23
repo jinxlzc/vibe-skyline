@@ -1,0 +1,94 @@
+{
+  "label": "SYNTHETIC-DEMO",
+  "source": "demoBundle(2026): three deterministic synthetic GitHub, Codex, Gemini series; no personal logs or upstream responses",
+  "recipe": {
+    "year": 2026,
+    "weekStart": "sunday",
+    "name": "skyline-demo",
+    "nameSize": "medium",
+    "namePlacement": "front",
+    "layout": "annual-districts",
+    "gamma": 0.78,
+    "maxHeight": 18,
+    "logoMode": "brand",
+    "tier": "multi",
+    "density": 1.24,
+    "colors": [
+      "#2F5D8C",
+      "#D96B43",
+      "#3A7D6B",
+      "#7C5EA8",
+      "#C89B3C",
+      "#B84A62"
+    ],
+    "baseColor": "#EFECE6",
+    "textColor": "#2F5D8C",
+    "logoColor": "#2F5D8C",
+    "resolution": "unresolved",
+    "slotAssignments": {
+      "base": 1,
+      "text": 2,
+      "logo": 2,
+      "source:github": 2,
+      "source:codex": 3,
+      "source:gemini": 4
+    }
+  },
+  "baselineDimensionsMm": [
+    171.8,
+    87.2,
+    21.2
+  ],
+  "themes": [
+    {
+      "id": "porcelain",
+      "contrast": "Text / base contrast: 5.81:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 15.06 g\n\nSlot 3: 14.70 g\n\nSlot 4: 14.71 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    },
+    {
+      "id": "obsidian",
+      "contrast": "Text / base contrast: 8.89:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 15.06 g\n\nSlot 3: 14.70 g\n\nSlot 4: 14.71 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    },
+    {
+      "id": "cinnabar",
+      "contrast": "Text / base contrast: 8.05:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 15.01 g\n\nSlot 3: 14.74 g\n\nSlot 4: 14.71 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    },
+    {
+      "id": "celadon",
+      "contrast": "Text / base contrast: 7.11:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 15.01 g\n\nSlot 3: 14.74 g\n\nSlot 4: 14.71 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    },
+    {
+      "id": "mono",
+      "contrast": "Text / base contrast: 6.51:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 44.47 g\n\nSlot 3: 0.00 g\n\nSlot 4: 0.00 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    },
+    {
+      "id": "brand",
+      "contrast": "Text / base contrast: 10.20:1 · target ≥ 3:1",
+      "slots": "AMS lite · Physical spools\n\nSame-color spools remain distinct. Conflicting colors in one slot block export; align colors or choose another slot.\n\nApply four-slot defaults\nbase\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\ntext\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nlogo\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:github\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:codex\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\nsource:gemini\nUnassigned\nSlot 1 · spool 1\nSlot 2 · spool 2\nSlot 3 · spool 3\nSlot 4 · spool 4\n\nSlot 1: 59.37 g\n\nSlot 2: 15.06 g\n\nSlot 3: 14.70 g\n\nSlot 4: 14.71 g\n\nPurge/time: unknown until sliced. Slot intent not verified in Bambu Studio."
+    }
+  ],
+  "githubExample": {
+    "handle": "synthetichandle",
+    "source": "locally mocked GitHub calendar response",
+    "nameProvenance": "explicit typed public handle",
+    "export": "github-handle.3mf"
+  },
+  "manualExample": {
+    "name": "custom-maker",
+    "source": "locally mocked GitHub and Gitee responses",
+    "export": "manual-custom.3mf",
+    "verification": "exported mesh equals independently generated expected mesh; different from source-name geometry"
+  },
+  "privateCoupon": "PRIVATE CALIBRATION ONLY; existing owner-requested character specimens; no usage activity; not a public default",
+  "font": "VibeSkylineGrid-Regular.ttf; renamed generic Fusion Pixel subset; four upstream OFL notices",
+  "densityGramsPerCm3": 1.24,
+  "slicerConnection": false,
+  "printerConnection": false,
+  "physicalPrint": false,
+  "purge": "unknown until sliced",
+  "printTime": "unknown until sliced"
+}

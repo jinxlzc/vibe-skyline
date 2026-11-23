@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-22",
+  "branch": "feat/m5-public-default-logos",
+  "base": "a75a169077825bfa0e176e1cfbfc9ab9bb123077",
+  "baseWorktree": "clean, confirmed before creating branch",
+  "lanHistory": "unchanged",
+  "vendored": [
+    {
+      "brand": "github",
+      "sourceUrl": "https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-24.svg",
+      "revision": "retrieved 2026-11-22 UTC",
+      "retrievedAt": "2026-11-22",
+      "assetPath": "assets/github-invertocat.svg",
+      "sha256": "bce494189797623c34e39a41c2c38a132bdca23ce4e6ac06b70116ed7e91ce26",
+      "licenseStatus": "owner-accepted-risk",
+      "trademarkOwner": "GitHub, Inc."
+    },
+    {
+      "brand": "gitee",
+      "sourceUrl": "https://gitee.com/gitee_logos_2023.zip",
+      "revision": "gitee-logos.20230427/logo_gitee_g_white@1x.svg",
+      "retrievedAt": "2026-11-22",
+      "assetPath": "assets/gitee-white.svg",
+      "sha256": "4f371ebd90f0213822625869d3c0285e2b1d56eace18f2001a915b397ebbcb8a",
+      "licenseStatus": "owner-accepted-risk",
+      "trademarkOwner": "Shenzhen AOSI Network Technology Co., Ltd."
+    }
+  ],
+  "placeholders": [
+    "gitlab",
+    "codex",
+    "claude",
+    "gemini",
+    "antigravity",
+    "cursor",
+    "copilot",
+    "deepseek",
+    "kimi",
+    "qwen",
+    "doubao",
+    "glm",
+    "minimax",
+    "trae",
+    "codebuddy",
+    "lingma"
+  ],
+  "checks": {
+    "typecheck": "passed",
+    "lint": "passed",
+    "unit": {
+      "passed": 294,
+      "files": 25,
+      "seconds": 41.35
+    },
+    "productionBuild": "passed",
+    "playwright": {
+      "passed": 24,
+      "duration": "5.9m",
+      "command": "CI=1 pnpm test:e2e",
+      "sequential": true
+    },
+    "operatorBrowser": {
+      "passed": 2,
+      "command": "pnpm exec tsx scripts/check-logo-operator.ts",
+      "scenarios": [
+        "global off: GitHub/Gitee official marks absent in preview/export, BYO preserved",
+        "github disabled: GitHub official mark absent, Gitee official mark present, BYO preserved"
+      ]
+    }
+  },
+  "buildWarnings": [
+    "Existing Manifold node:module browser externalization",
+    "Existing chunks above 500 kB"
+  ],
+  "regressions": [
+    "Detailed Invertocat contour and fixed-seat measurements",
+    "Neutral/None/global kill switches omit official geometry",
+    "Source mode survives switching and bundle loads",
+    "Delayed BYO read cannot re-enable another source",
+    "Pinned official asset bytes, parser hostility/overflow, synthetic BYO provenance"
+  ],
+  "review": "Independent review found a delayed-upload race; browser regression reproduced it, fix reviewed, and final browser run passed. No remaining reviewer blocker.",
+  "qualification": {
+    "github": {
+      "minStrokeMm": 0.957,
+      "minGapMm": 0.538,
+      "qualified": false
+    },
+    "gitee": {
+      "minStrokeMm": 1.3544591817864986,
+      "minGapMm": 1.3477507751033526,
+      "qualified": false
+    }
+  },
+  "sliced": false,
+  "physicallyPrinted": false,
+  "writtenTrademarkGrantClaimed": false,
+  "published": false,
+  "deployed": false,
+  "merged": false,
+  "pullRequestOpened": false,
+  "evidence": "examples/m5/manifest.json; synthetic activity only; official GitHub default and separate synthetic BYO samples",
+  "notes": "Initial full browser run had a temporary-directory collision with an overlapping focused test. Final acceptance is run sequentially. Operator probe initially used an exact button name without the visible arrow; corrected selector."
+}

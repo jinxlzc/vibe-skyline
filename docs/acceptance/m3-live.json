@@ -1,0 +1,48 @@
+{
+  "recordedAt": "2026-11-20T16:05:48.009Z",
+  "year": 2026,
+  "failures": 1,
+  "evidence": [
+    {
+      "provider": "github",
+      "username": "torvalds",
+      "path": "CLI",
+      "status": "PASS",
+      "days": 365
+    },
+    {
+      "provider": "github",
+      "username": "torvalds",
+      "path": "dev relay",
+      "status": "PASS",
+      "http": 200,
+      "year": 2026,
+      "metric": "contributions",
+      "days": 365,
+      "first": "2026-01-01",
+      "last": "2026-12-31",
+      "sha256": "dccbd4d86ccec0e80fef514c2cbd9f9fb9615e573569d737454e36a73bca7a37"
+    },
+    {
+      "provider": "gitee",
+      "username": "jinxlzc",
+      "path": "CLI",
+      "status": "FAIL"
+    },
+    {
+      "provider": "gitee",
+      "username": "jinxlzc",
+      "path": "dev relay",
+      "status": "PASS",
+      "http": 200,
+      "year": 2026,
+      "metric": "contributions",
+      "days": 365,
+      "first": "2026-01-01",
+      "last": "2026-12-31",
+      "sha256": "99d6525c31c25cc928c94739451fdf7c665b0c75a18da9287203e49033855486"
+    }
+  ],
+  "gitlab": "not attempted; beta",
+  "ai": "synthetic fixtures only; not live verified"
+}

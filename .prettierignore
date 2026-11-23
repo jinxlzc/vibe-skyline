@@ -1,0 +1,6 @@
+node_modules
+dist
+pnpm-lock.yaml
+fixtures
+docs/DESIGN.md
+docs/VERIFIED_DATA.md

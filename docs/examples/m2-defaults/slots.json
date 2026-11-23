@@ -1,0 +1,83 @@
+{
+  "schema": "vibeskyline.slots.v1",
+  "audience": "user export",
+  "qualification": "slot intent only — Bambu Studio mapping not slicer-verified",
+  "printer": "Bambu Lab A1 / AMS lite",
+  "assignments": [
+    {
+      "objectId": 2,
+      "objectName": "Material 1 #EFECE6",
+      "slot": 1,
+      "roles": [
+        "base"
+      ],
+      "color": "#EFECE6",
+      "volumeCm3": 47.881471887317616,
+      "grams": 59.373025140273846
+    },
+    {
+      "objectId": 3,
+      "objectName": "Material 2 #2F5D8C",
+      "slot": 2,
+      "roles": [
+        "source:github",
+        "text",
+        "logo"
+      ],
+      "color": "#2F5D8C",
+      "volumeCm3": 12.144167939180631,
+      "grams": 15.058768244583982
+    },
+    {
+      "objectId": 4,
+      "objectName": "Material 3 #D96B43",
+      "slot": 3,
+      "roles": [
+        "source:codex"
+      ],
+      "color": "#D96B43",
+      "volumeCm3": 11.85218845081985,
+      "grams": 14.696713679016614
+    },
+    {
+      "objectId": 5,
+      "objectName": "Material 4 #3A7D6B",
+      "slot": 4,
+      "roles": [
+        "source:gemini"
+      ],
+      "color": "#3A7D6B",
+      "volumeCm3": 11.864783326108519,
+      "grams": 14.712331324374563
+    }
+  ],
+  "slots": [
+    {
+      "slot": 1,
+      "spoolId": "a1-spool-1",
+      "grams": 59.373025140273846,
+      "volumeCm3": 47.881471887317616
+    },
+    {
+      "slot": 2,
+      "spoolId": "a1-spool-2",
+      "grams": 15.058768244583982,
+      "volumeCm3": 12.144167939180631
+    },
+    {
+      "slot": 3,
+      "spoolId": "a1-spool-3",
+      "grams": 14.696713679016614,
+      "volumeCm3": 11.85218845081985
+    },
+    {
+      "slot": 4,
+      "spoolId": "a1-spool-4",
+      "grams": 14.712331324374563,
+      "volumeCm3": 11.864783326108519
+    }
+  ],
+  "purge": "unknown until sliced",
+  "printTime": "unknown until sliced",
+  "profilesModified": false
+}

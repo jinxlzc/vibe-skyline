@@ -1,0 +1,101 @@
+{
+  "label": "M2 identity fix acceptance \u2014 synthetic fixtures",
+  "baseCommit": "e802937810c39419ed45b22a9ba54c2a0f9c918a",
+  "node": "v22.22.2",
+  "results": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 0.5
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 10.03
+    },
+    {
+      "command": "pnpm -r lint",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 3.16
+    },
+    {
+      "command": "pnpm -r test",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 22.71,
+      "testsPassed": 101,
+      "testFilesPassed": 16
+    },
+    {
+      "command": "pnpm -r build",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 12.34
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 3.15
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 1.34
+    },
+    {
+      "command": "pnpm test:e2e",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 69.99,
+      "testsPassed": 11
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "status": "PASS",
+      "exitCode": 0,
+      "seconds": 5.78,
+      "checks": [
+        "CLI github: PASS",
+        "dev proxy github: PASS",
+        "CLI gitee: PASS",
+        "dev proxy gitee: PASS"
+      ]
+    }
+  ],
+  "personalLogsRead": false,
+  "liveResponsesRetained": false,
+  "printerOrSlicerConnection": false,
+  "checkedAt": "2026-11-20T10:54:35.024543+00:00",
+  "priorAttempts": [
+    {
+      "command": "pnpm test:e2e",
+      "status": "FAIL",
+      "exitCode": 1,
+      "seconds": 100.28,
+      "testsPassed": 10,
+      "reason": "Recovery test selected a Large dense name beyond the supported font-size limit; changed to a geometry-qualified mixed-name recovery case."
+    }
+  ],
+  "finalRound": "Coupon Latin/font parity corrected; all commands rerun on final source",
+  "supplemental": [
+    {
+      "command": "pnpm --filter @vibeskyline/logos test",
+      "status": "PASS",
+      "testsPassed": 41,
+      "testFilesPassed": 2,
+      "seconds": 0.833,
+      "reason": "Final official-logo error wording retains the license gate"
+    }
+  ],
+  "artifacts": {
+    "sha256Matches": 8,
+    "screenshots": 11,
+    "totalExampleBytes": 3387914
+  },
+  "implementationCommit": "6e975f59774936d5a8cf0641ff0df61a92060e7e"
+}

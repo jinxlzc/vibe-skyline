@@ -1,0 +1,1113 @@
+{
+  "default.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "7fb6962af5b58113f93a6c71ae7f892aa6f5cfef3a76f6d28eeaf3600b4bf72c",
+    "bytes": 103057,
+    "dimensionsMm": [
+      171.8000030517578,
+      87.19999694824219,
+      21.200000762939453
+    ],
+    "volumeCm3": 83.74261160342662,
+    "grams": 103.84083838824901,
+    "materialCount": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "spoolId": "a1-spool-1",
+        "grams": 59.373025140273846,
+        "volumeCm3": 47.881471887317616
+      },
+      {
+        "slot": 2,
+        "spoolId": "a1-spool-2",
+        "grams": 15.058768244583982,
+        "volumeCm3": 12.144167939180631
+      },
+      {
+        "slot": 3,
+        "spoolId": "a1-spool-3",
+        "grams": 14.696713679016614,
+        "volumeCm3": 11.85218845081985
+      },
+      {
+        "slot": 4,
+        "spoolId": "a1-spool-4",
+        "grams": 14.712331324374563,
+        "volumeCm3": 11.864783326108519
+      }
+    ],
+    "assignments": [
+      {
+        "objectId": 2,
+        "objectName": "Material 1 #EFECE6",
+        "slot": 1,
+        "roles": [
+          "base"
+        ],
+        "color": "#EFECE6",
+        "volumeCm3": 47.881471887317616,
+        "grams": 59.373025140273846
+      },
+      {
+        "objectId": 3,
+        "objectName": "Material 2 #2F5D8C",
+        "slot": 2,
+        "roles": [
+          "source:github",
+          "text",
+          "logo"
+        ],
+        "color": "#2F5D8C",
+        "volumeCm3": 12.144167939180631,
+        "grams": 15.058768244583982
+      },
+      {
+        "objectId": 4,
+        "objectName": "Material 3 #D96B43",
+        "slot": 3,
+        "roles": [
+          "source:codex"
+        ],
+        "color": "#D96B43",
+        "volumeCm3": 11.85218845081985,
+        "grams": 14.696713679016614
+      },
+      {
+        "objectId": 5,
+        "objectName": "Material 4 #3A7D6B",
+        "slot": 4,
+        "roles": [
+          "source:gemini"
+        ],
+        "color": "#3A7D6B",
+        "volumeCm3": 11.864783326108519,
+        "grams": 14.712331324374563
+      }
+    ],
+    "contrastRatio": 5.810515335627577,
+    "features": {
+      "audience": "user export",
+      "qualification": "geometry measurements, not physically printed",
+      "text": [
+        {
+          "region": "year",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645287,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name",
+          "preset": "medium",
+          "placement": "front",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999979,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        }
+      ],
+      "logos": [
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999984,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        }
+      ]
+    },
+    "topology": [
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          171.8000030517578,
+          87.19999694824219,
+          3.200000047683716
+        ],
+        "volume": 47881.47188731762,
+        "components": 1
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          145,
+          69.60000610351562,
+          18.000000715255737
+        ],
+        "volume": 12144.167939180632,
+        "components": 266
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          131,
+          19,
+          18.000000715255737
+        ],
+        "volume": 11852.188450819851,
+        "components": 241
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          131,
+          19,
+          18.000000715255737
+        ],
+        "volume": 11864.78332610852,
+        "components": 241
+      }
+    ],
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 64
+    }
+  },
+  "slots.json": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "d735db47927b656ddedd5f8dbb8f368ac85e397380e5842a39cd08a8112f095c",
+    "bytes": 1858,
+    "slotIntent": {
+      "schema": "vibeskyline.slots.v1",
+      "audience": "user export",
+      "qualification": "slot intent only — Bambu Studio mapping not slicer-verified",
+      "printer": "Bambu Lab A1 / AMS lite",
+      "assignments": [
+        {
+          "objectId": 2,
+          "objectName": "Material 1 #EFECE6",
+          "slot": 1,
+          "roles": [
+            "base"
+          ],
+          "color": "#EFECE6",
+          "volumeCm3": 47.881471887317616,
+          "grams": 59.373025140273846
+        },
+        {
+          "objectId": 3,
+          "objectName": "Material 2 #2F5D8C",
+          "slot": 2,
+          "roles": [
+            "source:github",
+            "text",
+            "logo"
+          ],
+          "color": "#2F5D8C",
+          "volumeCm3": 12.144167939180631,
+          "grams": 15.058768244583982
+        },
+        {
+          "objectId": 4,
+          "objectName": "Material 3 #D96B43",
+          "slot": 3,
+          "roles": [
+            "source:codex"
+          ],
+          "color": "#D96B43",
+          "volumeCm3": 11.85218845081985,
+          "grams": 14.696713679016614
+        },
+        {
+          "objectId": 5,
+          "objectName": "Material 4 #3A7D6B",
+          "slot": 4,
+          "roles": [
+            "source:gemini"
+          ],
+          "color": "#3A7D6B",
+          "volumeCm3": 11.864783326108519,
+          "grams": 14.712331324374563
+        }
+      ],
+      "slots": [
+        {
+          "slot": 1,
+          "spoolId": "a1-spool-1",
+          "grams": 59.373025140273846,
+          "volumeCm3": 47.881471887317616
+        },
+        {
+          "slot": 2,
+          "spoolId": "a1-spool-2",
+          "grams": 15.058768244583982,
+          "volumeCm3": 12.144167939180631
+        },
+        {
+          "slot": 3,
+          "spoolId": "a1-spool-3",
+          "grams": 14.696713679016614,
+          "volumeCm3": 11.85218845081985
+        },
+        {
+          "slot": 4,
+          "spoolId": "a1-spool-4",
+          "grams": 14.712331324374563,
+          "volumeCm3": 11.864783326108519
+        }
+      ],
+      "purge": "unknown until sliced",
+      "printTime": "unknown until sliced",
+      "profilesModified": false
+    }
+  },
+  "default-mono.stl": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "b8c1ebbae2869a7ce3bbd21b8c2fbd423d8cc02b2706297513093165dec24dd1",
+    "bytes": 685784,
+    "dimensionsMm": [
+      171.8000030517578,
+      87.19999694824219,
+      21.200000762939453
+    ],
+    "volumeCm3": 83.74261160342652,
+    "grams": 103.84083838824888,
+    "materialCount": 1,
+    "topology": {
+      "valid": true,
+      "errors": [],
+      "bounds": [
+        171.8000030517578,
+        87.19999694824219,
+        21.200000762939453
+      ],
+      "volume": 83742.61160342653,
+      "components": 1
+    },
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 64
+    }
+  },
+  "alternate-theme.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "7e1aa795f0940927ba749944ee8f3c66c0fb1b2486b594309ef0f59c0299fc74",
+    "bytes": 103042,
+    "dimensionsMm": [
+      171.8000030517578,
+      87.19999694824219,
+      21.200000762939453
+    ],
+    "volumeCm3": 83.74261160342662,
+    "grams": 103.84083838824901,
+    "materialCount": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "spoolId": "a1-spool-1",
+        "grams": 59.373025140273846,
+        "volumeCm3": 47.881471887317616
+      },
+      {
+        "slot": 2,
+        "spoolId": "a1-spool-2",
+        "grams": 15.058768244583982,
+        "volumeCm3": 12.144167939180631
+      },
+      {
+        "slot": 3,
+        "spoolId": "a1-spool-3",
+        "grams": 14.696713679016614,
+        "volumeCm3": 11.85218845081985
+      },
+      {
+        "slot": 4,
+        "spoolId": "a1-spool-4",
+        "grams": 14.712331324374563,
+        "volumeCm3": 11.864783326108519
+      }
+    ],
+    "assignments": [
+      {
+        "objectId": 2,
+        "objectName": "Material 1 #181C22",
+        "slot": 1,
+        "roles": [
+          "base"
+        ],
+        "color": "#181C22",
+        "volumeCm3": 47.881471887317616,
+        "grams": 59.373025140273846
+      },
+      {
+        "objectId": 3,
+        "objectName": "Material 2 #4CC9F0",
+        "slot": 2,
+        "roles": [
+          "source:github",
+          "text",
+          "logo"
+        ],
+        "color": "#4CC9F0",
+        "volumeCm3": 12.144167939180631,
+        "grams": 15.058768244583982
+      },
+      {
+        "objectId": 4,
+        "objectName": "Material 3 #F77F00",
+        "slot": 3,
+        "roles": [
+          "source:codex"
+        ],
+        "color": "#F77F00",
+        "volumeCm3": 11.85218845081985,
+        "grams": 14.696713679016614
+      },
+      {
+        "objectId": 5,
+        "objectName": "Material 4 #52B788",
+        "slot": 4,
+        "roles": [
+          "source:gemini"
+        ],
+        "color": "#52B788",
+        "volumeCm3": 11.864783326108519,
+        "grams": 14.712331324374563
+      }
+    ],
+    "contrastRatio": 8.892403785538997,
+    "features": {
+      "audience": "user export",
+      "qualification": "geometry measurements, not physically printed",
+      "text": [
+        {
+          "region": "year",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645287,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name",
+          "preset": "medium",
+          "placement": "front",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999979,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        }
+      ],
+      "logos": [
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999984,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        }
+      ]
+    },
+    "topology": [
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          171.8000030517578,
+          87.19999694824219,
+          3.200000047683716
+        ],
+        "volume": 47881.47188731762,
+        "components": 1
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          145,
+          69.60000610351562,
+          18.000000715255737
+        ],
+        "volume": 12144.167939180632,
+        "components": 266
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          131,
+          19,
+          18.000000715255737
+        ],
+        "volume": 11852.188450819851,
+        "components": 241
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          131,
+          19,
+          18.000000715255737
+        ],
+        "volume": 11864.78332610852,
+        "components": 241
+      }
+    ],
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 64
+    }
+  },
+  "private-calibration-coupon.stl": {
+    "label": "PRIVATE CALIBRATION — PHYSICAL VERIFICATION REQUIRED",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "8f05df56c19b8f69a1d753a6e259c3c08f80e54afe6e8f2ddee75f4ad64077c7",
+    "bytes": 395184,
+    "dimensionsMm": [
+      131,
+      90,
+      3.799999952316284
+    ],
+    "volumeCm3": 38.8136935567336,
+    "grams": 48.12898001034966,
+    "materialCount": 1,
+    "topology": {
+      "valid": true,
+      "errors": [],
+      "bounds": [
+        131,
+        90,
+        3.799999952316284
+      ],
+      "volume": 38813.6935567336,
+      "components": 1
+    },
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 2
+    }
+  },
+  "private-calibration-coupon.3mf": {
+    "label": "PRIVATE CALIBRATION — PHYSICAL VERIFICATION REQUIRED",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "75bd875cad6a776652457aa73b7d3291cfb48192dacb30923cd43f4a1a414c4d",
+    "bytes": 78502,
+    "dimensionsMm": [
+      131,
+      90,
+      3.799999952316284
+    ],
+    "volumeCm3": 38.81369355673331,
+    "grams": 48.12898001034931,
+    "materialCount": 2,
+    "slots": [
+      {
+        "slot": 1,
+        "spoolId": "a1-spool-1",
+        "grams": 46.78272069711685,
+        "volumeCm3": 37.728000562191006
+      },
+      {
+        "slot": 2,
+        "spoolId": "a1-spool-2",
+        "grams": 1.3462593132324572,
+        "volumeCm3": 1.0856929945423042
+      },
+      {
+        "slot": 3,
+        "spoolId": "a1-spool-3",
+        "grams": 0,
+        "volumeCm3": 0
+      },
+      {
+        "slot": 4,
+        "spoolId": "a1-spool-4",
+        "grams": 0,
+        "volumeCm3": 0
+      }
+    ],
+    "assignments": [
+      {
+        "objectId": 2,
+        "objectName": "Material 1 #DAD4C6",
+        "slot": 1,
+        "roles": [
+          "base"
+        ],
+        "color": "#DAD4C6",
+        "volumeCm3": 37.728000562191006,
+        "grams": 46.78272069711685
+      },
+      {
+        "objectId": 3,
+        "objectName": "Material 2 #25354A",
+        "slot": 2,
+        "roles": [
+          "text",
+          "logo",
+          "calibration"
+        ],
+        "color": "#25354A",
+        "volumeCm3": 1.0856929945423042,
+        "grams": 1.3462593132324572
+      }
+    ],
+    "contrastRatio": 8.426627213154351,
+    "features": {
+      "audience": "private calibration — contains owner identity",
+      "qualification": "geometry measurements, not physically printed",
+      "text": [
+        {
+          "region": "name-1",
+          "preset": "small",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 0.95833333333333,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-2",
+          "preset": "small",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645284,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-3",
+          "preset": "medium",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662409,
+          "minGapMm": 1.0999999999999963,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-4",
+          "preset": "medium",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999979,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-5",
+          "preset": "large",
+          "sizeMm": 18.5,
+          "minStrokeMm": 1.3081475451951103,
+          "minGapMm": 1.5416666666666614,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-6",
+          "preset": "large",
+          "sizeMm": 18.5,
+          "minStrokeMm": 1.3081475451951108,
+          "minGapMm": 1.5416666666666643,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name-7",
+          "preset": "medium",
+          "sizeMm": 14.9,
+          "minStrokeMm": 1.0535891039679537,
+          "minGapMm": 0.7023927359786357,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "label-small",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.813172798364528,
+          "minGapMm": 1.9166666666666663,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "label-medium",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645294,
+          "minGapMm": 0.9583333333333313,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "label-large",
+          "sizeMm": 9.8,
+          "minStrokeMm": 0.8166666666666667,
+          "minGapMm": null,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "digits",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645287,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        }
+      ],
+      "logos": [
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999984,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        }
+      ]
+    },
+    "topology": [
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          131,
+          90,
+          3.200000047683716
+        ],
+        "volume": 37728.00056219101,
+        "components": 1
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          122.625,
+          83,
+          0.5999999046325684
+        ],
+        "volume": 1085.6929945423042,
+        "components": 80
+      }
+    ],
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 2
+    }
+  },
+  "private-calibration-coupon-slots.json": {
+    "label": "PRIVATE CALIBRATION — PHYSICAL VERIFICATION REQUIRED",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "7281f628046ebb8613bebbe7d4f4fbaee626251f4ea590face20b092baad1a59",
+    "bytes": 1341,
+    "slotIntent": {
+      "schema": "vibeskyline.slots.v1",
+      "audience": "private calibration — contains owner identity",
+      "qualification": "slot intent only — Bambu Studio mapping not slicer-verified",
+      "printer": "Bambu Lab A1 / AMS lite",
+      "assignments": [
+        {
+          "objectId": 2,
+          "objectName": "Material 1 #DAD4C6",
+          "slot": 1,
+          "roles": [
+            "base"
+          ],
+          "color": "#DAD4C6",
+          "volumeCm3": 37.728000562191006,
+          "grams": 46.78272069711685
+        },
+        {
+          "objectId": 3,
+          "objectName": "Material 2 #25354A",
+          "slot": 2,
+          "roles": [
+            "text",
+            "logo",
+            "calibration"
+          ],
+          "color": "#25354A",
+          "volumeCm3": 1.0856929945423042,
+          "grams": 1.3462593132324572
+        }
+      ],
+      "slots": [
+        {
+          "slot": 1,
+          "spoolId": "a1-spool-1",
+          "grams": 46.78272069711685,
+          "volumeCm3": 37.728000562191006
+        },
+        {
+          "slot": 2,
+          "spoolId": "a1-spool-2",
+          "grams": 1.3462593132324572,
+          "volumeCm3": 1.0856929945423042
+        },
+        {
+          "slot": 3,
+          "spoolId": "a1-spool-3",
+          "grams": 0,
+          "volumeCm3": 0
+        },
+        {
+          "slot": 4,
+          "spoolId": "a1-spool-4",
+          "grams": 0,
+          "volumeCm3": 0
+        }
+      ],
+      "purge": "unknown until sliced",
+      "printTime": "unknown until sliced",
+      "profilesModified": false
+    }
+  },
+  "github-handle.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "45d7689f922bdf8083ae8384b3604750764e403490b8f040c3b92d07e9e75e6f",
+    "bytes": 65333,
+    "dimensionsMm": [
+      171.8000030517578,
+      39.600006103515625,
+      21.200000762939453
+    ],
+    "volumeCm3": 21.414699641322432,
+    "grams": 26.554227555239816,
+    "materialCount": 2,
+    "slots": [
+      {
+        "slot": 1,
+        "spoolId": "a1-spool-1",
+        "grams": 26.150990146890866,
+        "volumeCm3": 21.089508182976505
+      },
+      {
+        "slot": 2,
+        "spoolId": "a1-spool-2",
+        "grams": 0.40323740834894806,
+        "volumeCm3": 0.32519145834592583
+      },
+      {
+        "slot": 3,
+        "spoolId": "a1-spool-3",
+        "grams": 0,
+        "volumeCm3": 0
+      },
+      {
+        "slot": 4,
+        "spoolId": "a1-spool-4",
+        "grams": 0,
+        "volumeCm3": 0
+      }
+    ],
+    "assignments": [
+      {
+        "objectId": 2,
+        "objectName": "Material 1 #EFECE6",
+        "slot": 1,
+        "roles": [
+          "base"
+        ],
+        "color": "#EFECE6",
+        "volumeCm3": 21.089508182976505,
+        "grams": 26.150990146890866
+      },
+      {
+        "objectId": 3,
+        "objectName": "Material 2 #2F5D8C",
+        "slot": 2,
+        "roles": [
+          "source:github",
+          "text",
+          "logo"
+        ],
+        "color": "#2F5D8C",
+        "volumeCm3": 0.32519145834592583,
+        "grams": 0.40323740834894806
+      }
+    ],
+    "contrastRatio": 5.810515335627577,
+    "features": {
+      "audience": "user export",
+      "qualification": "geometry measurements, not physically printed",
+      "text": [
+        {
+          "region": "year",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645287,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name",
+          "preset": "medium",
+          "placement": "front",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999943,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        }
+      ],
+      "logos": [
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        }
+      ]
+    },
+    "topology": [
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          171.8000030517578,
+          39.600006103515625,
+          3.200000047683716
+        ],
+        "volume": 21089.508182976504,
+        "components": 1
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          120.34165954589844,
+          27,
+          18.000000715255737
+        ],
+        "volume": 325.1914583459258,
+        "components": 23
+      }
+    ],
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 4
+    }
+  },
+  "manual-custom.3mf": {
+    "label": "SYNTHETIC-DEMO",
+    "provenance": "Actual Playwright browser download; Download.saveAs; independently reopened and validated",
+    "sha256": "6092c5f6a097c838a94e575cf77a20598415124f53b2d5f8a39a63e2339955c4",
+    "bytes": 107294,
+    "dimensionsMm": [
+      171.8000030517578,
+      63.399993896484375,
+      21.200000762939453
+    ],
+    "volumeCm3": 33.95742641984513,
+    "grams": 42.10720876060796,
+    "materialCount": 3,
+    "slots": [
+      {
+        "slot": 1,
+        "spoolId": "a1-spool-1",
+        "grams": 41.60249354067422,
+        "volumeCm3": 33.55039801667276
+      },
+      {
+        "slot": 2,
+        "spoolId": "a1-spool-2",
+        "grams": 0.3966867153478891,
+        "volumeCm3": 0.31990864140958797
+      },
+      {
+        "slot": 3,
+        "spoolId": "a1-spool-3",
+        "grams": 0.10802850458584344,
+        "volumeCm3": 0.08711976176277697
+      },
+      {
+        "slot": 4,
+        "spoolId": "a1-spool-4",
+        "grams": 0,
+        "volumeCm3": 0
+      }
+    ],
+    "assignments": [
+      {
+        "objectId": 2,
+        "objectName": "Material 1 #EFECE6",
+        "slot": 1,
+        "roles": [
+          "base"
+        ],
+        "color": "#EFECE6",
+        "volumeCm3": 33.55039801667276,
+        "grams": 41.60249354067422
+      },
+      {
+        "objectId": 3,
+        "objectName": "Material 2 #2F5D8C",
+        "slot": 2,
+        "roles": [
+          "source:github",
+          "text",
+          "logo"
+        ],
+        "color": "#2F5D8C",
+        "volumeCm3": 0.31990864140958797,
+        "grams": 0.3966867153478891
+      },
+      {
+        "objectId": 4,
+        "objectName": "Material 3 #D96B43",
+        "slot": 3,
+        "roles": [
+          "source:gitee"
+        ],
+        "color": "#D96B43",
+        "volumeCm3": 0.08711976176277697,
+        "grams": 0.10802850458584344
+      }
+    ],
+    "contrastRatio": 5.810515335627577,
+    "features": {
+      "audience": "user export",
+      "qualification": "geometry measurements, not physically printed",
+      "text": [
+        {
+          "region": "year",
+          "sizeMm": 11.5,
+          "minStrokeMm": 0.8131727983645287,
+          "minGapMm": 0.9583333333333321,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        },
+        {
+          "region": "name",
+          "preset": "medium",
+          "placement": "front",
+          "sizeMm": 13.2,
+          "minStrokeMm": 0.9333809511662412,
+          "minGapMm": 1.0999999999999943,
+          "method": "eight-direction opposing-wall calipers; pointed terminals and unsampled irregular walls unverified",
+          "qualified": false
+        }
+      ],
+      "logos": [
+        {
+          "minStrokeMm": 1.1999999999999984,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        },
+        {
+          "minStrokeMm": 1.1999999999999993,
+          "minGapMm": 1.1999999999999993,
+          "sizeMm": 8.4,
+          "method": "original segmented monogram, opposing-wall calipers",
+          "qualified": false
+        }
+      ]
+    },
+    "topology": [
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          171.8000030517578,
+          63.399993896484375,
+          3.200000047683716
+        ],
+        "volume": 33550.398016672756,
+        "components": 1
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          109.34165954589844,
+          45.19999694824219,
+          18.000000715255737
+        ],
+        "volume": 319.908641409588,
+        "components": 21
+      },
+      {
+        "valid": true,
+        "errors": [],
+        "bounds": [
+          2.1999969482421875,
+          2.1999969482421875,
+          18.000000715255737
+        ],
+        "volume": 87.11976176277697,
+        "components": 1
+      }
+    ],
+    "spatial": {
+      "valid": true,
+      "supported": true,
+      "errors": [],
+      "toleranceMm": 0.0001,
+      "slabs": 4
+    }
+  }
+}

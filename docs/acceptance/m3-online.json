@@ -1,0 +1,155 @@
+{
+  "milestone": "M3 zero-install public calendar flow",
+  "recordedAt": "2026-11-20T16:12:03.786574+00:00",
+  "branch": "feat/m3-zero-install-site",
+  "baseSha": "2b9c1c586dfd94a863c7a9aa439a1b5fd36da011",
+  "initialWorkspace": "clean; no unrelated changes overwritten",
+  "environment": {
+    "node": "v22.22.2",
+    "pnpm": "10.22.0",
+    "browser": "Chromium via Playwright; loopback preview 127.0.0.1:4173"
+  },
+  "commands": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "exitCode": 0,
+      "result": "Lockfile unchanged; all 13 workspace projects already up to date."
+    },
+    {
+      "command": "pnpm -r typecheck",
+      "exitCode": 0,
+      "result": "All workspace typechecks passed."
+    },
+    {
+      "command": "pnpm -r lint",
+      "exitCode": 0,
+      "result": "All workspace lint scripts passed."
+    },
+    {
+      "command": "pnpm -r test",
+      "exitCode": 0,
+      "result": "171 tests across workspace package suites passed."
+    },
+    {
+      "command": "pnpm -r build",
+      "exitCode": 0,
+      "result": "All workspace builds passed; Vite warns about the lazy Three.js chunk size."
+    },
+    {
+      "command": "pnpm exec tsc --noEmit",
+      "exitCode": 0,
+      "result": "Root TypeScript includes standalone relay, scripts and browser tests."
+    },
+    {
+      "command": "pnpm exec eslint .",
+      "exitCode": 0,
+      "result": "Root ESLint includes standalone relay; browser/Node boundary rules passed."
+    },
+    {
+      "command": "pnpm test",
+      "exitCode": 0,
+      "result": "176 tests across 20 files passed, including 5 relay safeguard tests."
+    },
+    {
+      "command": "pnpm test:e2e",
+      "exitCode": 0,
+      "result": "17 browser tests passed in 1.5 minutes after fixing a test locator race."
+    },
+    {
+      "command": "LIVE=1 pnpm test:live",
+      "exitCode": 1,
+      "result": "Latest GitHub torvalds CLI and relay passed; Gitee jinxlzc relay passed, CLI request/parse failed. Earlier octocat/jinxlzc run passed all four paths; retained separately."
+    },
+    {
+      "command": "pnpm exec vitest run apps/relay/src/relay.test.ts apps/web/src/online.test.ts",
+      "exitCode": 0,
+      "result": "7 focused tests passed after transport/copy review."
+    },
+    {
+      "command": "pnpm exec vitest run apps/web/src/online.test.ts apps/web/src/store.test.ts",
+      "exitCode": 0,
+      "result": "32 focused tests passed after distinguishing imported files from session fetches."
+    },
+    {
+      "command": "pnpm --filter @vibeskyline/web build",
+      "exitCode": 0,
+      "result": "Final frontend build after explicit import/fetch origin handling; lazy Three.js size warning remains."
+    },
+    {
+      "command": "pnpm exec playwright test tests/online.spec.ts tests/defaults.spec.ts",
+      "exitCode": 0,
+      "result": "4 passed in 28.2s against the final build, including imported public bundle labeled Imported file, no import upload/API requests, four slots and source username."
+    }
+  ],
+  "liveEvidence": [
+    "docs/acceptance/m3-live.json",
+    "docs/acceptance/m3-live-octocat.json"
+  ],
+  "gitlab": "Beta; fixture-tested; no real public smoke attempted; official past-12-month window disclosed",
+  "ai": "Synthetic-fixture tested only; never live verified",
+  "screenshots": [
+    "docs/screenshots/m3-online/advanced-entry-zh.png",
+    "docs/screenshots/m3-online/gitee-username-zh.png",
+    "docs/screenshots/m3-online/github-ready-export-zh.png",
+    "docs/screenshots/m3-online/gitlab-beta-zh.png",
+    "docs/screenshots/m3-online/landing-github-en.png",
+    "docs/screenshots/m3-online/landing-github-zh.png",
+    "docs/screenshots/m3-online/privacy-zh.png",
+    "docs/screenshots/m3-online/source-qualification-zh.png",
+    "docs/screenshots/m3-online/source-username-zh.png",
+    "docs/screenshots/m3-online/synthetic-demo-zh.png",
+    "docs/screenshots/m3-online/synthetic-import-export-zh.png",
+    "docs/screenshots/m3-online/synthetic-import-mobile-zh.png"
+  ],
+  "examples": "docs/examples/m3-online/summary.json",
+  "defaults": {
+    "font": "VibeSkyline Grid",
+    "weekStart": "sunday",
+    "publicName": "source username; synthetic fallback skyline-demo; no legal name",
+    "defaultSlotCapacity": 4,
+    "publicGithubExportSlots": 2,
+    "syntheticImportExportSlots": 2
+  },
+  "safeguards": [
+    "exact CORS origin allowlist; no credentialed requests",
+    "fixed provider/handle/year routes; no arbitrary URL proxy",
+    "HTTPS host allowlist and public IPv4 DNS pinning",
+    "all redirects rejected; private/link-local/metadata IPs blocked",
+    "12s overall timeout and 2 MiB body cap",
+    "per-IP/global quotas, concurrent request cap, bounded client state",
+    "provider/username/year cache keys; clone isolation, 1h TTL, 64 entries; HTTP no-store",
+    "safe error categories without raw response/request logs"
+  ],
+  "limitations": [
+    "Gitee CLI live smoke intermittent; latest command exits 1, prior complete pass retained",
+    "upstream public-page formats are not stable official APIs",
+    "GitLab beta; AI source live qualification absent",
+    "IPv4-only relay; per-process quotas; proxy clients share socket-IP limit; no distributed cache/limiter or coalescing",
+    "Cross-border connectivity unguaranteed; mainland hosting may require ICP filing depending on provider/regulations",
+    "No TLS/edge deployment or production load qualification",
+    "Large lazy Three.js bundle warning"
+  ],
+  "realLogosOnByDefault": "NOT satisfied",
+  "sliced": false,
+  "physicallyPrinted": false,
+  "purgeAndSliceTime": "unknown",
+  "deploymentPerformed": false,
+  "ownerMachineTouched": false,
+  "printerOrSlicerConnected": false,
+  "personalUsageLogsRead": false,
+  "codexGlobalConfigChanged": false,
+  "prOpened": false,
+  "merged": false,
+  "visibilityChanged": false,
+  "npmPublished": false,
+  "forcePushed": false,
+  "implementationSha": "fd1e1ea9a12e7d1f8ba0757a0987b302a07bc2de",
+  "evidenceCommit": "This acceptance/report/artifact commit follows implementationSha; resolve with git log on the branch.",
+  "testGate": "PASS for deterministic checks; live upstream availability PARTIAL (latest Gitee CLI failure retained)",
+  "resolvedFindings": [
+    "Node pinned-DNS callback mismatch fixed using explicit IPv4; public relay live requests pass.",
+    "Synthetic identity test corrected to expect neutral skyline-demo; source selector already excluded sample identities.",
+    "Public-result browser assertion changed to wait for the complete source list, resolving an asynchronous locator race.",
+    "Imported public-calendar bundles are explicitly labeled imported, not fetched during this session."
+  ]
+}

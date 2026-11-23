@@ -1,0 +1,1 @@
+{"sessionId": "synthetic-session", "projectHash": "CANARY_GEMINI_PATH", "messages": [{"id": "s1", "type": "gemini", "timestamp": "2026-01-04T12:00:00Z", "content": "CANARY_GEMINI_PROMPT", "tokens": {"input": 20, "output": 5, "cached": 8, "thoughts": 2, "tool": 3, "total": 30}}]}

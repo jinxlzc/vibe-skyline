@@ -1,0 +1,54 @@
+{
+  "public-github-live-recorded.3mf": {
+    "qualification": "LIVE-RECORDED PUBLIC GitHub / torvalds \u2014 replayed in browser; no sign-in",
+    "sha256": "f878fcef55ade2aa717d3abecbefaaa07b728622bf5dfa9ab503451c51de572f",
+    "bytes": 51451,
+    "materialCount": 2,
+    "sliced": false,
+    "physicallyPrinted": false,
+    "realLogosOnByDefault": "NOT satisfied",
+    "validation": "Reopened browser download; mesh / Core 3MF validation"
+  },
+  "public-github-live-recorded.stl": {
+    "qualification": "LIVE-RECORDED PUBLIC GitHub / torvalds \u2014 replayed in browser; no sign-in",
+    "sha256": "ecd3b76d90244b252f9ef23731dc41f7b3fd69e15a1bcecdba4ae227b6ec683f",
+    "bytes": 327284,
+    "materialCount": 1,
+    "sliced": false,
+    "physicallyPrinted": false,
+    "realLogosOnByDefault": "NOT satisfied",
+    "validation": "Reopened browser download; mesh / Core 3MF validation"
+  },
+  "SYNTHETIC-advanced.3mf": {
+    "qualification": "SYNTHETIC minimal daily Codex bundle; no live AI verification",
+    "sha256": "45162a86bf39dc8a5c95443c3f0d11f7276390de8a79053f7cc5c75c33282106",
+    "bytes": 63391,
+    "materialCount": 2,
+    "sliced": false,
+    "physicallyPrinted": false,
+    "realLogosOnByDefault": "NOT satisfied",
+    "validation": "Reopened browser download; mesh / Core 3MF validation"
+  },
+  "SYNTHETIC-advanced.stl": {
+    "qualification": "SYNTHETIC minimal daily Codex bundle; no live AI verification",
+    "sha256": "4fc5261e2aed4ea8dda704e598a1449bea4d2af60917bab0a4e80090ea535a49",
+    "bytes": 353784,
+    "materialCount": 1,
+    "sliced": false,
+    "physicallyPrinted": false,
+    "realLogosOnByDefault": "NOT satisfied",
+    "validation": "Reopened browser download; mesh / Core 3MF validation"
+  },
+  "public-github-live.bundle.json": {
+    "qualification": "LIVE public GitHub torvalds calendar, requested username only; replayed by browser acceptance",
+    "sha256": "abfc167d4907fbacf71cfd8d5b37cd30385500a9c03f454acca989b988ec38bc",
+    "bytes": 65472,
+    "containsRawLogs": false
+  },
+  "SYNTHETIC-advanced.bundle.json": {
+    "qualification": "SYNTHETIC minimal daily Codex bundle; sample identities ignored; no real logs",
+    "sha256": "d6eaddc4254b477047d6d6f9acaf74d6bcfb3dc91dfc21d76ba552e427d02c8d",
+    "bytes": 2206,
+    "containsRawLogs": false
+  }
+}
