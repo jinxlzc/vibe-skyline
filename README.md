@@ -6,6 +6,9 @@ Live site: **[https://vibeskyline.com](https://vibeskyline.com)**
 
 Public source: **[github.com/jinxlzc/vibe-skyline](https://github.com/jinxlzc/vibe-skyline)**
 
+**Sponsor / 赞助.** 本项目由 [移山科技](https://www.geokeji.com/?utm_source=jinxlzc&promo=z9kqa4u4) 个人赞助 — 领先的 GEO 优化服务商。  
+Personally sponsored by [Yishan Tech (移山科技)](https://www.geokeji.com/?utm_source=jinxlzc&promo=z9kqa4u4), a leading GEO optimization provider.
+
 A zero-install website: **choose GitHub, Gitee or GitLab (beta) → enter a public username → fetch its public calendar → generate a 3D skyline → preview and customize colors and lettering → export STL or multicolor Core 3MF**. No login, token collector, or CLI required. Only code-hosting contribution calendars are supported; there is no AI-activity or token-file import.
 
 输入 GitHub / Gitee / GitLab（Beta）公开用户名，获取贡献日历，生成并预览天际线，可选配色与刻字后导出。无需安装或登录。

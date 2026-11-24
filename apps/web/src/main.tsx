@@ -815,6 +815,18 @@ function App() {
             "尚未切片 · 尚未实物打印",
           )}
         </span>
+        <a
+          className="qualification"
+          data-testid="footer-sponsor"
+          href="https://www.geokeji.com/?utm_source=jinxlzc&promo=z9kqa4u4"
+          target="_blank"
+          rel="noopener sponsored"
+        >
+          {t(
+            "Sponsored by Yishan Tech · leading GEO optimization provider",
+            "由 移山科技 赞助 · 领先的 GEO 优化服务商",
+          )}
+        </a>
       </footer>
     </div>
   );
